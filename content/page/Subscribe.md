@@ -1,7 +1,7 @@
 ---
 title: "The Starbeam Project Newsletter"
 slug: subscribe
-date: 2020-01-14T12:32:27-04:00
+date: 2020-01-14T10:32:27-04:00
 draft: false
 excludeFromTopNav: false
 enableMetadata: false

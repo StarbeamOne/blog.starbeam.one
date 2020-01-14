@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.starbeam.one/pages/</loc>
+    <lastmod>2020-01-14T10:32:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starbeam.one/</loc>
+    <lastmod>2020-01-14T10:32:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starbeam.one/subscribe/</loc>
+    <lastmod>2020-01-14T10:32:27-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.starbeam.one/articles/</loc>
     <lastmod>2020-01-14T01:59:56-04:00</lastmod>
   </url>
@@ -60,16 +75,6 @@
   <url>
     <loc>https://blog.starbeam.one/categories/technology/</loc>
     <lastmod>2020-01-14T01:59:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.starbeam.one/</loc>
-    <lastmod>2020-01-14T01:59:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.starbeam.one/pages/</loc>
-    <lastmod>2019-11-01T06:16:45-04:00</lastmod>
   </url>
   
   <url>

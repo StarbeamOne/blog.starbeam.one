@@ -1,0 +1,78 @@
+/* do not group these rules */
+*::-webkit-input-placeholder {
+    color: darken($nav-text-color, 10);
+}
+
+*:-moz-placeholder {
+    /* FF 4-18 */
+    color: darken($nav-text-color, 10);
+}
+
+*::-moz-placeholder {
+    /* FF 19+ */
+    color: darken($nav-text-color, 10);
+}
+
+*:-ms-input-placeholder {
+    /* IE 10+ */
+    color: darken($nav-text-color, 10);
+}
+
+ul.topnav {
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	margin: 0;
+	margin-left: auto;
+	background-color: $special-color;
+	padding: .25em 1em;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+
+	li {
+		margin-bottom: 0;
+		display: flex;
+
+		a {
+			text-align: center;
+			padding: 0em 1em;
+			display: flex;
+			color: white;
+
+			&:hover {
+				background-color: lighten($nav-background-color, 10);
+			}
+		}
+		
+		a.active { border: 1px solid white; }
+		a.nav-search { padding: .2em 1em; }
+	}
+}
+
+nav {
+	background: none;
+    color: $nav-text-color;
+    display: flex;
+	align-self: flex-end;
+
+    &.permanentTopNav {
+      display: block;
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.25em 0;
+        min-height: 65px;
+    }
+	
+	a {
+		text-transform: uppercase;
+		font-size: .8em;
+		color: #f1f1f1;
+		letter-spacing: .1em;
+	}
+    
+}

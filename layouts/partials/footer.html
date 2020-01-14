@@ -1,0 +1,123 @@
+{{ if .Site.Params.showFooter | default true }}
+<footer>
+    <div class="container">
+
+        {{ if gt (.Site.Params.amountLatestPostsInFooter | default 7) 0 }}
+        <div class="recent-posts">
+            <strong>{{ i18n "latestPosts" }}</strong>
+                <ul>
+                {{ range where (where (first (.Site.Params.amountLatestPostsInFooter | default 7) .Site.Pages.ByPublishDate.Reverse) ".Kind" "page") ".Type" "ne" "page" }}
+                    <li>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </li>
+                {{ end }}
+                </ul>
+        </div>
+        {{ end }}
+
+        {{ if and .Site.Taxonomies.categories (gt ( .Site.Params.amountCategoriesInFooter | default 7 ) 0 ) }}
+        <div class="categories">
+            <a href="{{ "/categories/" | relLangURL }}"><strong>{{ i18n "categories" }}</strong></a>
+                <ul>
+                {{ range $order, $taxonomy := (first ( .Site.Params.amountCategoriesInFooter | default 7 ) .Site.Taxonomies.categories.ByCount) }}
+                    <li>
+                        <a href="{{ (print "/categories/" ($taxonomy.Name | urlize)) | relLangURL }}">{{ $taxonomy.Name | humanize }} ({{ $taxonomy.Count }})</a>
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+
+        <div class="right">
+            {{ if .Site.Params.showSocialMedia | default true }}
+            <div class="external-profiles">
+                <strong>{{ i18n "socialMedia" }}</strong>
+
+                {{ with .Site.Params.twitter }}
+                    <a href="{{ . }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+                {{ end }}
+                {{ with .Site.Params.github }}
+                    <a href="{{ . }}" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                {{ end }}
+                {{ with .Site.Params.xing }}
+                    <a href="{{ . }}" target="_blank"><i class="fab fa-xing"></i></a>
+                {{ end }}
+                {{ with .Site.Params.pinterest }}
+                    <a href="{{ . }}" target="_blank"><i class="fab fa-pinterest"></i></a>
+                {{ end }}
+                {{ with .Site.Params.instagram }}
+                    <a href="{{ . }}" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+                {{ end }}
+                {{ with .Site.Params.tumblr }}
+                    <a href="{{ . }}" target="_blank"><i class="fab fa-tumblr"></i></a>
+                {{ end }}
+                {{ with .Site.Params.youtube }}
+                    <a href="{{ . }}" target="_blank" title="YouTube"><i class="fab fa-youtube-adblock-proof"></i></a>
+                {{ end }}
+                {{ with .Site.Params.vimeo }}
+                    <a href="{{ . }}" target="_blank"><i class="fab fa-vimeo"></i></a>
+                {{ end }}
+				{{ with .Site.Params.mailchimp }}
+                    <a href="{{ . }}" target="_blank" title="My Newsletter on MailChimp"><i class="fab fa-mailchimp"></i></a>
+                {{ end }}
+				{{ with .Site.Params.googleSearch }}
+                    <a href="{{ . }}" title="Search this site on Google."><i class="fa fa-search"></i></a>
+                {{ end }}
+				{{ with .Site.Params.email }}
+                    <a href="{{ . }}" target="_blank" title="Get Ol' Fashioned &amp; Email Me"><i class="fa fa-envelope"></i></a>
+                {{ end }}
+                {{ with .Site.Params.facebook }}
+                    <a href="{{ . }}" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                {{ end }}
+                {{ with .Site.Params.linkedin }}
+                    <a href="{{ . }}" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                {{ end }}
+				{{ with .Site.Params.rss }}
+                    <a href="{{ . | relURL }}" target="_blank" title="Subscribe to our RSS Feed"><i class="fa fa-rss"></i></a>
+                {{ end }}				
+            </div>
+            {{ end }}
+
+            {{ if and (.Site.Params.showFooterLanguageChooser | default true) (gt .Site.Languages 1) }}
+                {{- $.Scratch.Set "language" .Language -}}
+                <div class="languages">
+                    <strong>{{ i18n "otherLanguages" }}</strong>
+                    {{ range .Site.Languages }}
+                        {{ if eq ($.Scratch.Get "language") . }}
+                            <a href="{{ . | relURL }}" class="active">{{ . }}</a>
+                        {{ else }}
+                            <a href="{{ . | relURL }}">{{ . }}</a>
+                        {{ end }}
+                    {{ end }}
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</footer>
+{{ end }}
+
+<div class="credits">
+    <div class="container">
+        <div class="copyright">
+            &copy;
+			{{ if .Site.Params.copyrightUseCurrentYear }}
+				{{ now.Year }}
+			{{ else }}
+				{{ .Site.Params.copyrightYearOverride | default 2018 }}
+			{{ end }}
+			{{ .Site.Params.copyrightBy | default "by Lednerb" }}
+			
+			<div class="supplemental">
+				<a href="/terms/">Terms</a> | <a href="/privacy/">Privacy</a> | <a href="https://www.miplace.org/" target="_blank">Made in Michigan</a>
+			</div>
+        </div>
+        <div class="author">
+			Proudly designed w/ <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; 
+            <a href="{{ .Site.Params.creditsUrl | default "https://github.com/Lednerb/bilberry-hugo-theme" }}" target="_blank">{{ .Site.Params.creditsText | default "Bilberry Hugo Theme" }}</a>
+			<div>Icons made by <a href="https://www.flaticon.com/authors/google" title="Google">Google</a> via <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></div>
+		</div>
+		
+		
+
+    </div>
+</div>

@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<div class="content">
+    <div class="article-wrapper u-cf single">
+        <a class="bubble" href="{{ "/" | relLangURL}}">
+            <i class="fa fa-fw fa-exclamation-triangle"></i>
+        </a>
+
+        <article class="error404 article">
+            <div class="content">
+                <h3>OH NOES 😱</h3>
+                <p></p>
+                <p><strong>An Error 404 occured.</strong> That means the requested page is not available.</p>
+				
+                <p>You can:</p>
+				<ul>
+					<li>View <a href="{{ "/categories/" | relLangURL}}">available categories</a></li>
+					<li>Go Big <b>and</b> <a href="{{ "/" | relLangURL}}">GO HOME</a></li>
+					<li><a href="{{ "/search/" | relLangURL}}">Search to your heart's content</a></li>
+				</ul>
+				
+				<p>Hopefully, none of the above bring you back to this page. 😁</p>
+            </div>
+        </article>
+    </div>
+</div>
+{{ end }}

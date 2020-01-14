@@ -1,0 +1,41 @@
+title: The Starbeam Blog
+baseURL: '/'
+theme: bilberry-hugo-theme
+enableRobotsTXT: true
+defaultContentLanguage: en
+newContentEditor: 'C:\Program Files\Typora\typora.exe'
+enableRobotsTXT: true
+# Paginate: 
+permalinks:
+  article: /:year/:month/:slug/
+  page: /:slug
+blackfriday:
+  hrefTargetBlank: true
+taxonomies:
+  author: authors
+  tag: tags
+  category: categories
+outputs:
+  home:
+    - HTML
+    - JSON
+    - RSS
+  page:
+    - HTML
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: true
+  instagram:
+    disable: false
+  twitter:
+    disable: false
+  vimeo:
+    disable: false
+  youtube:
+    disable: false
+    privacyEnhanced: true

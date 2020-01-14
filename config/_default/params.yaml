@@ -1,0 +1,40 @@
+css_modules: ['css/site.css']
+js_modules: []
+author: Mike-EEE
+subtitle: Thoughts on Digital Art and Beyond
+description: The Starbeam blog.
+keywords: >-
+    blog,personal,business,art,technology,life,etc,
+    blazor,MSFT,writing,poetry,drawing
+enable_mathjax: false
+siteWidth: 800px
+resizeImages: true
+gravatarEMail: transmit@starbeam.one
+# customImage: ''
+# overlayIcon: fa-home
+permanentTopNav: false
+showHeaderLanguageChooser: false
+enableMomentJs: false
+dateFormat: 'Jan 2, 2006'
+showReadingTime: true
+showFooter: true
+amountLatestPostsInFooter: 7
+amountCategoriesInFooter: 7
+showFooterLanguageChooser: true
+showSocialMedia: true
+googleSearch: 'https://cse.google.com/cse?cx=013406684005021326964:1p4yjbcckzq'
+facebook: 'https://fb.me/StarbeamOne'
+twitter: 'https://twitter.com/StarbeamOne'
+#instagram: 'https://www.instagram.com/StarbeamOne/'
+#youtube: 'https://www.youtube.com/channel/UCe06CeIw3-YUqiXLQZMbiSA'
+email: 'mailto:contact+blog@starbeam.one'
+github: 'https://github.com/StarbeamOne'
+# linkedin: 'https://www.linkedin.com/company/dragonspark/'
+mailchimp: 'https://mailchi.mp/22f409388764/dragonspark'
+rss: '/articles/index.xml'
+copyrightBy: The Starbeam Project
+copyrightUseCurrentYear: true
+copyrightYearOverride: '2020'
+#copyrightUrl: 'https://github.com/Lednerb'
+creditsText: Bilberry Hugo Theme
+creditsUrl: 'https://github.com/Lednerb/bilberry-hugo-theme'

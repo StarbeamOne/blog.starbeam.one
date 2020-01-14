@@ -1,0 +1,8 @@
+baseURL: 'https://blog.dragonspark.us/'
+enableRobotsTXT: true
+publishDir: docs
+newContentEditor: ''
+enableRobotsTXT: true
+googleAnalytics: 'UA-151249476-1'
+# disqusShortname: dragonspark-blog
+canonifyURLs: true

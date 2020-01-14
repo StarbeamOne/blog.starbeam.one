@@ -1,0 +1,38 @@
+<header>
+    <div class="container">
+        <div class="logo">
+            <a href="{{ .Site.BaseURL | relLangURL }}" class="logo">
+                {{ if and (isset .Site.Params "customimage") (ne .Site.Params.customImage "") }}
+                    <img src="{{ .Site.Params.customImage | relURL }}" alt="">
+                {{ else }}
+                    <img src="https://www.gravatar.com/avatar/{{ md5 .Site.Params.gravatarEMail }}?d=mm&size=200" alt="">
+                {{ end }}
+
+                <span class="overlay"><i class="fa {{ .Site.Params.overlayIcon | default "fa-home" }}"></i></span>
+            </a>
+        </div>
+        <div class="titles">
+            <h3 class="title"><a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title | default "My cool new blog" }}</a></h3>
+            {{ with .Site.Params.Subtitle }}
+                <span class="subtitle">{{ . }}</span>
+            {{ end }}
+        </div>		
+    </div>
+</header>
+<nav class="container">
+	<ul class="topnav">
+		{{ $currentPage := . }}
+		{{ range .Site.Menus.main }}
+			{{ $page := $currentPage.Site.GetPage .URL }}
+			
+			{{ if $page.Params.excludeFromTopNav }}
+				{{/* Do nothing */}}
+			{{ else if and (isset $page.Params "link") (ne $page.Params.link "") }}
+				<li><a href="{{ .URL | default $page.Permalink | relURL }}" target="{{ $page.Params.target }}"{{ if eq $currentPage.URL  .URL }} class="active"{{end}}>{{ .Name }}</a></li>
+			{{ else }}
+				<li><a href="{{ .URL | default $page.Permalink }}"{{ if eq $currentPage.URL  .URL }} class="active"{{end}}>{{ .Name }}</a></li>
+			{{ end }}
+		{{ end }}				
+		<li><a href="/search/" title="Search this site." class="nav-search{{ if (eq .URL  "/search/") }} active{{end}}"><i class="fa fa-search"></i></a></li>
+	</ul>
+</nav>

@@ -7,10 +7,10 @@ main:
   # weight: 2
   # identifier: search
   # url: '/search/'
-- name: Newsletter
-  weight: 3
-  identifier: newsletter
-  url: '/subscribe/'
+# - name: Newsletter
+#   weight: 3
+#   identifier: newsletter
+#   url: '/subscribe/'
 - name: About
   weight: 4
   identifier: about

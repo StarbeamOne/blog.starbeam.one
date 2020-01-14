@@ -1,4 +1,4 @@
-baseURL: 'https://blog.dragonspark.us/'
+baseURL: 'https://blog.starbeam.one/'
 enableRobotsTXT: true
 publishDir: docs
 newContentEditor: ''

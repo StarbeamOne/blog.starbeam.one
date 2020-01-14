@@ -1,7 +1,7 @@
 ---
-title: "The DragonSpark Newsletter"
+title: "The Starbeam Project Newsletter"
 slug: subscribe
-date: 2019-10-30T12:32:27-04:00
+date: 2020-01-14T12:32:27-04:00
 draft: false
 excludeFromTopNav: false
 enableMetadata: false
@@ -13,7 +13,7 @@ link: ""
 target: "_blank"
 ---
 
-Want The DragonSpark Blog, Dawg! delivered directly to you?  
+Want The Starbeam Project delivered directly to you?  
 
 Get monthly highlights delivered straight into your inbox.
 

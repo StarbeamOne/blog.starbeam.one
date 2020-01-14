@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Starbeam Blog</title>
+    <link>https://blog.starbeam.one/pages/</link>
+    <description>Recent content on The Starbeam Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 Nov 2019 06:16:45 -0400</lastBuildDate>
+    
+	<atom:link href="https://blog.starbeam.one/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Terms of Use</title>
+      <link>https://blog.starbeam.one/terms/</link>
+      <pubDate>Fri, 01 Nov 2019 06:16:45 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/terms/</guid>
+      <description>Website Terms of Use Version 1.0
+The The Starbeam Blog website located at http://blog.starbeam.one is a copyrighted work belonging to Starbeam. Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.
+All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
+These Terms of Use described the legally binding terms and conditions that oversee your use of the Site.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://blog.starbeam.one/privacy/</link>
+      <pubDate>Fri, 01 Nov 2019 06:15:31 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/privacy/</guid>
+      <description>Privacy Policy for Starbeam At The Starbeam Blog, accessible from https://blog.starbeam.one, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by The Starbeam Blog and how we use it.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+General Data Protection Regulation (GDPR) We are a Data Controller of your information.</description>
+    </item>
+    
+    <item>
+      <title>Search the Blog, Dawg</title>
+      <link>https://blog.starbeam.one/search/</link>
+      <pubDate>Thu, 31 Oct 2019 13:10:10 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/search/</guid>
+      <description>Search this site&amp;hellip; who knows what you&amp;rsquo;ll find!
+ </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.starbeam.one/about/</link>
+      <pubDate>Tue, 29 Oct 2019 13:58:51 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/about/</guid>
+      <description>Welcome to The Starbeam Project Blog!
+I am your host, Michael DeMond &amp;ndash; aka Mike-EEE, or perhaps for the purposes of this project, Mike-EEEangelo. With a little luck, I hope to have the chance to explain why at some point. 😁
+This is a little place that I have carved out in the interwebs for my latest project, Starbeam! With this blog, I hope to have a resource that I can utilize to share status updates regarding my new crazy idea, along with any other quick thoughts or dissertations that I wish to disperse to the public.</description>
+    </item>
+    
+  </channel>
+</rss>

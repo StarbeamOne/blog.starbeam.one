@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on The Starbeam Blog</title>
+    <link>https://blog.starbeam.one/categories/technology/</link>
+    <description>Recent content in technology on The Starbeam Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Jan 2020 01:59:56 -0400</lastBuildDate>
+    
+	<atom:link href="https://blog.starbeam.one/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://blog.starbeam.one/2020/01/hello-world/</link>
+      <pubDate>Tue, 14 Jan 2020 01:59:56 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/2020/01/hello-world/</guid>
+      <description>Hello world! More content on the way&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

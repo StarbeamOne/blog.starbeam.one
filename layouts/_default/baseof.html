@@ -25,6 +25,18 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ .Site.Language.Lang }}">
     <head>
+		{{ with .Site.GoogleAnalytics }}
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-156198093-1');
+		</script>
+		{{ end }}
+
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="author" content="{{ .Site.Params.author }}">
@@ -66,8 +78,7 @@
 		
         <script src="https://kit.fontawesome.com/ab97a23557.js" crossorigin="anonymous"></script>
 		<script src="https://cse.google.com/cse.js?cx=013406684005021326964:1p4yjbcckzq"></script>
-        {{ template "_internal/google_analytics_async.html" . }}
-		
+        
 		{{ if isset .Site.Params "css_modules" }}
             {{ range .Site.Params.css_modules }}
                 <link rel="stylesheet" href="{{ . | absURL }}">

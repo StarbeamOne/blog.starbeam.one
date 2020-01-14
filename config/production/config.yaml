@@ -3,6 +3,6 @@ enableRobotsTXT: true
 publishDir: docs
 newContentEditor: ''
 enableRobotsTXT: true
-googleAnalytics: 'UA-151249476-1'
+googleAnalytics: 'UA-156198093-1'
 # disqusShortname: dragonspark-blog
 canonifyURLs: true

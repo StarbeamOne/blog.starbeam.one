@@ -30,7 +30,7 @@ twitter: 'https://twitter.com/StarbeamOne'
 email: 'mailto:contact+blog@starbeam.one'
 github: 'https://github.com/StarbeamOne'
 # linkedin: 'https://www.linkedin.com/company/dragonspark/'
-# mailchimp: 'https://mailchi.mp/22f409388764/dragonspark'
+mailchimp: 'https://mailchi.mp/918b57c46367/starbeam-blog'
 rss: '/articles/index.xml'
 copyrightBy: The Starbeam Project
 copyrightUseCurrentYear: true

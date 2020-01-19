@@ -1,7 +1,6 @@
 title: The Starbeam Blog
 baseURL: '/'
 theme: bilberry-hugo-theme
-enableRobotsTXT: true
 defaultContentLanguage: en
 newContentEditor: 'C:\Program Files\Typora\typora.exe'
 enableRobotsTXT: true
@@ -24,7 +23,7 @@ outputs:
     - HTML
 privacy:
   disqus:
-    disable: false
+    disable: true
   googleAnalytics:
     anonymizeIP: true
     disable: false

@@ -7,15 +7,17 @@ $site-width: {{ .Site.Params.SiteWidth | default "800px" }};
 
 // Define your fonts.
 // If you want to import new fonts, set them in /src/css/fonts.css
-$headline-font: 'Fira Sans', sans-serif;
+$headline-font: 'Play', sans-serif;
 $content-font: 'Lato', sans-serif;
 $article-footer-font: 'Roboto Mono', monospace;
 
+$secondary-font: 'Roboto', sans-serif;
+
 // main colors
-$page-background-color: #EEF0F2;
-$base-color: #415A77;
-$special-color: #778DA9;
-$highlight-color: #86CB92;
+$page-background-color: #B5DCE8;
+$base-color: #0D1321;
+$special-color: #094074;
+$highlight-color: #3D7DC5;
 $text-color: #222;
 
 // easy styling
@@ -32,14 +34,14 @@ $bubble-color: #fff;
 $bubble-background-color: #ccc;
 $bubble-hover-color: $highlight-color;
 
-$article-background-color: #fff;
+$article-background-color: #F7FFF7;
 $meta-text-color: #999;
 $meta-border-color: #eee;
 $continue-reading-hover-color: $meta-text-color;
 
 $footer-border-color: #eee;
-$footer-background-color: rgba(#ffffff, 80);
-$footer-headline-color: #444;
+$footer-background-color: #FFFFB3;
+$footer-headline-color: #0D1321;
 
 
 @mixin featuredImage() {

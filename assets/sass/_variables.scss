@@ -40,9 +40,10 @@ $meta-border-color: #eee;
 $continue-reading-hover-color: $meta-text-color;
 
 $footer-border-color: #eee;
-$footer-background-color: rgba(#FFFFB3, 80);
+$footer-background-color: rgba(#F7FFF7, 80);
 $footer-headline-color: #0D1321;
 
+$credits-background-color: #FFFFB3;
 
 @mixin featuredImage() {
     .featured-image {

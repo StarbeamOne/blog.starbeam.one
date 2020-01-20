@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>life on The Starbeam Blog</title>
+    <title>life on The Starbeam Project Blog</title>
     <link>https://blog.starbeam.one/categories/life/</link>
-    <description>Recent content in life on The Starbeam Blog</description>
+    <description>Recent content in life on The Starbeam Project Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Jan 2020 01:59:56 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2020 01:59:56 -0400</lastBuildDate>
     
 	<atom:link href="https://blog.starbeam.one/categories/life/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,10 +13,12 @@
     <item>
       <title>Hello World!</title>
       <link>https://blog.starbeam.one/2020/01/hello-world/</link>
-      <pubDate>Tue, 14 Jan 2020 01:59:56 -0400</pubDate>
+      <pubDate>Mon, 20 Jan 2020 01:59:56 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/2020/01/hello-world/</guid>
-      <description>Hello world! More content on the way&amp;hellip;</description>
+      <description>Hello world!
+I am excited to announce my efforts here with The Starbeam Project. Although, in my life I have found that it is best not to mention intention and plans but to actually put forth the effort.
+If all goes well, this project will represent the next phase and major chapter in my life. I am pretty pumped about this vision and plan to spend the next several years developing it in one form or another.</description>
     </item>
     
   </channel>

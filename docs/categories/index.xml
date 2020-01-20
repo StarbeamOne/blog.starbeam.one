@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on The Starbeam Blog</title>
+    <title>Categories on The Starbeam Project Blog</title>
     <link>https://blog.starbeam.one/categories/</link>
-    <description>Recent content in Categories on The Starbeam Blog</description>
+    <description>Recent content in Categories on The Starbeam Project Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Jan 2020 01:59:56 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2020 01:59:56 -0400</lastBuildDate>
     
 	<atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>art</title>
       <link>https://blog.starbeam.one/categories/art/</link>
-      <pubDate>Tue, 14 Jan 2020 01:59:56 -0400</pubDate>
+      <pubDate>Mon, 20 Jan 2020 01:59:56 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/art/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>business</title>
       <link>https://blog.starbeam.one/categories/business/</link>
-      <pubDate>Tue, 14 Jan 2020 01:59:56 -0400</pubDate>
+      <pubDate>Mon, 20 Jan 2020 01:59:56 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/business/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>etc</title>
       <link>https://blog.starbeam.one/categories/etc/</link>
-      <pubDate>Tue, 14 Jan 2020 01:59:56 -0400</pubDate>
+      <pubDate>Mon, 20 Jan 2020 01:59:56 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/etc/</guid>
       <description></description>
@@ -40,7 +40,7 @@
     <item>
       <title>life</title>
       <link>https://blog.starbeam.one/categories/life/</link>
-      <pubDate>Tue, 14 Jan 2020 01:59:56 -0400</pubDate>
+      <pubDate>Mon, 20 Jan 2020 01:59:56 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/life/</guid>
       <description></description>
@@ -49,7 +49,7 @@
     <item>
       <title>technology</title>
       <link>https://blog.starbeam.one/categories/technology/</link>
-      <pubDate>Tue, 14 Jan 2020 01:59:56 -0400</pubDate>
+      <pubDate>Mon, 20 Jan 2020 01:59:56 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/technology/</guid>
       <description></description>

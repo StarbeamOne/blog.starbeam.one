@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on The Starbeam Blog</title>
+    <title>Tags on The Starbeam Project Blog</title>
     <link>https://blog.starbeam.one/tags/</link>
-    <description>Recent content in Tags on The Starbeam Blog</description>
+    <description>Recent content in Tags on The Starbeam Project Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Jan 2020 01:59:56 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2020 01:59:56 -0400</lastBuildDate>
     
 	<atom:link href="https://blog.starbeam.one/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>introduction</title>
       <link>https://blog.starbeam.one/tags/introduction/</link>
-      <pubDate>Tue, 14 Jan 2020 01:59:56 -0400</pubDate>
+      <pubDate>Mon, 20 Jan 2020 01:59:56 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/tags/introduction/</guid>
       <description></description>

@@ -8,7 +8,7 @@ draft: false
 
 Welcome to The Starbeam Project Blog!  
 
-I am your host, Michael DeMond -- aka Mike-EEE, or perhaps for the purposes of this project, Mike-EEEangelo.  With a little luck, I hope to have the chance to explain why at some point. 😁
+I am your host, Michael DeMond -- aka Mike-E, or perhaps for the purposes of this project, Mike-E-angelo.  With a little luck, I hope to have the chance to explain why at some point. 😁
 
 This is a little place that I have carved out in the interwebs for my latest project, Starbeam!  With this blog, I hope to have a resource that I can utilize to share status updates regarding my new crazy idea, along with any other quick thoughts or dissertations that I wish to disperse to the public.
 

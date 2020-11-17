@@ -5,10 +5,18 @@
     <link>https://blog.starbeam.one/authors/mike-e/</link>
     <description>Recent content in Mike-E on The Starbeam Project Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Jan 2020 01:59:56 -0400</lastBuildDate>
-    
-	<atom:link href="https://blog.starbeam.one/authors/mike-e/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 17 Nov 2020 05:44:23 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/authors/mike-e/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>November 2020 Status Update</title>
+      <link>https://blog.starbeam.one/2020/11/november-2020-status-update/</link>
+      <pubDate>Tue, 17 Nov 2020 05:44:23 -0500</pubDate>
+      
+      <guid>https://blog.starbeam.one/2020/11/november-2020-status-update/</guid>
+      <description>Woooooooooo buddy, am I wayyyyyyyy overdue for a status update here.
+I&amp;rsquo;ve actually been thinking about typing up an update for a while.
+2020 has been super crazy, and I am no exception. I feel like I have lost 3 months worth of progress and velocity due to the pandemic.
+But, I have been lucky enough to keep on plucking along here, developing Starbeam One for majority of the year. In fact, the light at the end of the tunnel is starting to emerge, and I am feeling it&amp;rsquo;s about 3 more months until I am &amp;ldquo;structurally complete&amp;rdquo; (with major stories completed) and then &amp;ldquo;feature complete&amp;rdquo; (all stories needed for an MVP) a few months after that.</description>
+    </item>
     
     <item>
       <title>Hello World!</title>

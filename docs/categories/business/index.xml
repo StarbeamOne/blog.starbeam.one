@@ -5,11 +5,7 @@
     <link>https://blog.starbeam.one/categories/business/</link>
     <description>Recent content in business on The Starbeam Project Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Jan 2020 01:59:56 -0400</lastBuildDate>
-    
-	<atom:link href="https://blog.starbeam.one/categories/business/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Jan 2020 01:59:56 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
       <link>https://blog.starbeam.one/2020/01/hello-world/</link>

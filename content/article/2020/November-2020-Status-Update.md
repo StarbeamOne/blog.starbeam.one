@@ -21,7 +21,9 @@ All told, it will be about 18 months of development for an MVP.  That probably s
 
 Let's not forget that a lot of my time has been spent learning Blazor, which is fabulous.  I am super excited in not only developing a startup, but one that is based on MSFT and all its glorious new (and 100% standards compliant -- NOT TODAY, SILVERLIGHT!) technology.
 
-I have been learning how to keep my mouth blabbing about what I am working on, and it's been glorious.  It's a much less stressful environment here when I am not blabbing to the world, only to not come through with promised deadlines, etc.
+For a little fresher, I am using [server-side Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-5.0#blazor-server), based on [my Framework](https://github.com/DragonSpark/Framework/tree/projects/Starbeam), and have already upgraded everything to [.NET 5.0](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/).
+
+As for personal updates, let's see... I have been learning how to keep my mouth blabbing about what I am working on, and it's been glorious.  It's a much less stressful environment here when I am not blabbing to the world, only to not come through with promised deadlines, etc.  Perhaps I am keeping too quiet?  Well, better to be safe than sorry.  I feel like when I talk too much about stuff that isn't actually done, it tends to jinx my momentum and subsequent success.
 
 ANYWHOO... I wanted to brush off the dust here, and check in.  I am still alive, and very much working on Starbeam One.  The vision is strong and I am excited to be working on this sucker.
 

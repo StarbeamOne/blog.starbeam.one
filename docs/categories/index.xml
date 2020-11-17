@@ -5,7 +5,25 @@
     <link>https://blog.starbeam.one/categories/</link>
     <description>Recent content in Categories on The Starbeam Project Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 Nov 2020 05:44:23 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2020 08:42:32 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>business</title>
+      <link>https://blog.starbeam.one/categories/business/</link>
+      <pubDate>Tue, 17 Nov 2020 08:42:32 -0500</pubDate>
+      
+      <guid>https://blog.starbeam.one/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://blog.starbeam.one/categories/technology/</link>
+      <pubDate>Tue, 17 Nov 2020 08:42:32 -0500</pubDate>
+      
+      <guid>https://blog.starbeam.one/categories/technology/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>etc</title>
       <link>https://blog.starbeam.one/categories/etc/</link>
@@ -30,24 +48,6 @@
       <pubDate>Mon, 20 Jan 2020 01:59:56 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>business</title>
-      <link>https://blog.starbeam.one/categories/business/</link>
-      <pubDate>Mon, 20 Jan 2020 01:59:56 -0400</pubDate>
-      
-      <guid>https://blog.starbeam.one/categories/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>https://blog.starbeam.one/categories/technology/</link>
-      <pubDate>Mon, 20 Jan 2020 01:59:56 -0400</pubDate>
-      
-      <guid>https://blog.starbeam.one/categories/technology/</guid>
       <description></description>
     </item>
     

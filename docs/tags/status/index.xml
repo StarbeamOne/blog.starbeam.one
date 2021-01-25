@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>status on The Starbeam Project Blog</title>
+    <link>https://blog.starbeam.one/tags/status/</link>
+    <description>Recent content in status on The Starbeam Project Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Jan 2021 11:00:00 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/tags/status/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>January 2021 Status Update</title>
+      <link>https://blog.starbeam.one/2021/01/january-2021-status-update/</link>
+      <pubDate>Mon, 25 Jan 2021 11:00:00 -0500</pubDate>
+      
+      <guid>https://blog.starbeam.one/2021/01/january-2021-status-update/</guid>
+      <description>Happy New Year&amp;hellip; ish. 😁 I am having a little down time &amp;ndash; a case of the January&amp;rsquo;s as it were &amp;ndash; so I decided to check in here with a little update.
+Things are actually running at a pretty good clip here. In fact, I hesitate to mention it but I am in a bit of a groove as of late, pretty much writing solutions and supporting code at will.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,20 +5,29 @@
     <link>https://blog.starbeam.one/categories/</link>
     <description>Recent content in Categories on The Starbeam Project Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Feb 2021 05:05:34 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 03:00:50 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>business</title>
       <link>https://blog.starbeam.one/categories/business/</link>
-      <pubDate>Fri, 05 Feb 2021 05:05:34 -0500</pubDate>
+      <pubDate>Fri, 05 Mar 2021 03:00:50 -0500</pubDate>
       
       <guid>https://blog.starbeam.one/categories/business/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>etc</title>
+      <link>https://blog.starbeam.one/categories/etc/</link>
+      <pubDate>Fri, 05 Mar 2021 03:00:50 -0500</pubDate>
+      
+      <guid>https://blog.starbeam.one/categories/etc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>life</title>
       <link>https://blog.starbeam.one/categories/life/</link>
-      <pubDate>Fri, 05 Feb 2021 05:05:34 -0500</pubDate>
+      <pubDate>Fri, 05 Mar 2021 03:00:50 -0500</pubDate>
       
       <guid>https://blog.starbeam.one/categories/life/</guid>
       <description></description>
@@ -30,15 +39,6 @@
       <pubDate>Thu, 04 Feb 2021 03:35:39 -0500</pubDate>
       
       <guid>https://blog.starbeam.one/categories/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>etc</title>
-      <link>https://blog.starbeam.one/categories/etc/</link>
-      <pubDate>Thu, 04 Feb 2021 03:35:39 -0500</pubDate>
-      
-      <guid>https://blog.starbeam.one/categories/etc/</guid>
       <description></description>
     </item>
     

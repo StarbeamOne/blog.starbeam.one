@@ -12,7 +12,7 @@ Aw jyea... I am finding myself with the time to write a status update, so that m
 
 Well it's not *that* bad, but I thought I would take a few seconds to chime in here.  Things are going pretty well.  I am down to one last feature item, which should take about two weeks (🤞).  Then after that, it's off to the races with completing deferred tasks.  This is about two additional more months of work at this point, leading to mid-May.
 
-Then, it's a matter of making some introductory videos featuring yours truly, with a tour of what I have built.  I am wanting to take my time with this to learn some of the software out there, as well as refining a style.  The timeframe for an announcement here is still August-ish, preferrably the 1st week.
+Then, it's a matter of making some introductory videos featuring yours truly, with a tour of what I have built.  I am wanting to take my time with this to learn some of the software out there, as well as refining a style.  The timeframe for an announcement here is still August-ish, preferably the 1st week.
 
 I am thinking that I will start out with a "works on my machine" tour to demonstrate what I have built, along with some additional videos showcasing the current market along with some contrasting analysis with some of the competition out there.
 

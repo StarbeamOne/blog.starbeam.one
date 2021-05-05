@@ -19,5 +19,7 @@ Based on my super amazing product management software (read: Excel spreadsheet ð
 
 Currently, July looks like a break month.  It will have been over 18 months of this, with these past 6-7 being especially intense and productive with consistent 70-80 hour weeks.  A breather is in order, especially once I have some videos I can use to show others what's up.  Then August it begins once again.
 
-Nifty note: [Lana Del Rey recently announced an album recently for July](https://pitchfork.com/news/lana-del-rey-announces-new-album-blue-banisters/).  That's a two-month advance notice.  I am thinking of doing the same: August announcement for an October release.  Nifty note x2: [October 12, 2021 does mark the end of support for Silverlight](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)...
+Nifty note: [Lana Del Rey recently announced an album recently for July](https://pitchfork.com/news/lana-del-rey-announces-new-album-blue-banisters/).  That's a two-month advance notice.  I am thinking of doing the same: August announcement for an October release.
+
+Nifty note x2: [October 12, 2021 does mark the end of support for Silverlight](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)...
 

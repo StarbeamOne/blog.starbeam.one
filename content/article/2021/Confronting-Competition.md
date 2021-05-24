@@ -3,8 +3,8 @@ title: "Confronting Competition"
 date: 2021-02-05T05:05:34-05:00
 categories: [business, life]
 tags: []
-author: Mike-E
-authors: [Mike-E]
+author: Mike-E-angelo
+authors: [Mike-E-angelo]
 draft: false
 ---
 

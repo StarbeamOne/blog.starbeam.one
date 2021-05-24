@@ -3,8 +3,8 @@ title: "February 2021 Status Update"
 date: 2021-02-04T03:35:39-05:00
 categories: [business, art, technology, life, etc]
 tags: []
-author: Mike-E
-authors: [Mike-E]
+author: Mike-E-angelo
+authors: [Mike-E-angelo]
 featuredImage: ''
 draft: false
 ---

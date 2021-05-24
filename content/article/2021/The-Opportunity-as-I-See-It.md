@@ -3,8 +3,8 @@ title: "The Opportunity as I See It"
 date: 2021-05-24T09:14:20-04:00
 categories: [business, technology]
 tags: []
-author: Mike-E
-authors: [Mike-E]
+author: Mike-E-angelo
+authors: [Mike-E-angelo]
 featuredImage: ''
 draft: true
 ---
@@ -44,13 +44,13 @@ The fees are complicated too -- [this article has a great example](https://www.c
 
 But let's back up and focus on the congested/slowness of the networks.  I know there are other blockchains out there besides ETH but no one is using them (or at least talking about them).  Sure, we're told that "the next version" of ETH is on its way, and it will solve everything, but miners are making a killing with the current model.  Who knows what a drastic change is going to do to the landscape?
 
-But even then, let's say your fastest decentralized network gets 10,000 transactions-per-second ([ETH currently only does 20](https://blockchair.com/ethereum/charts/transactions-per-second) -- ! -- on a good day BTW), and this is considered higher-end of all the blockchain capabilities currently.  Keep in mind that is for the *entire* network, let alone for your particular contract.  So if the entire network has 9,000 smart contracts on it and each of them are doing 1 transaction per second, it doesn't give you a lot of room to operate, let alone scale.
+But even then, let's say your fastest decentralized network gets 10,000 transactions-per-second ([ETH currently only does 20](https://blockchair.com/ethereum/charts/transactions-per-second) -- ! -- on a good day BTW), and this is considered higher-end of all the blockchain capabilities currently.  Keep in mind that is for the *entire* network, let alone for your particular contract.  So if the entire network has 9,999 smart contracts on it and each of them are doing 1 transaction per second, it doesn't give you a lot of room to operate, let alone scale.
 
 Arbitrary and borderline capricious example, sure.  But consider: **[Microsoft Azure SQL Server does 75,000 transactions per second](https://azure.microsoft.com/en-us/blog/azure-sql-database-in-memory-performance/) and it's fully dedicated to your application**.  Again, sure, Microsoft is probably (read: is) taking liberties with that declaration in the interest of "marketing," but still.  Even halving that estimation and we're still talking 3x+ of the best/fastest of existing decentralized alternatives.
 
 I see things like this and it makes me wonder: can't we do better here?
 
-And it was exactly this type of reasoning/thinking that led me to building starbeam.one.
+And it was exactly this type of reasoning/thinking that led me to building starbeam.one to find out.
 
 So the opportunity as I see it involves creating a solution that is:
 

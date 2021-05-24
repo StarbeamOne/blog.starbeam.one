@@ -3,8 +3,8 @@ title: "January 2021 Status Update"
 date: 2021-01-25T11:00:00-05:00
 categories: [business, life, etc]
 tags: [status]
-author: Mike-E
-authors: [Mike-E]
+author: Mike-E-angelo
+authors: [Mike-E-angelo]
 featuredImage: ''
 draft: false
 ---

@@ -3,8 +3,8 @@ title: "December 2020 Status Update"
 date: 2020-12-11T02:20:29-05:00
 categories: [business, life, etc]
 tags: [status-update]
-author: Mike-E
-authors: [Mike-E]
+author: Mike-E-angelo
+authors: [Mike-E-angelo]
 featuredImage: ''
 draft: false
 ---

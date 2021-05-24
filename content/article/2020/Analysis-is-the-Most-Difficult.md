@@ -3,8 +3,8 @@ title: "Analysis Is the Most Difficult"
 date: 2020-11-17T08:42:32-05:00
 categories: [business, technology]
 tags: [development]
-author: Mike-E
-authors: [Mike-E]
+author: Mike-E-angelo
+authors: [Mike-E-angelo]
 featuredImage: ''
 draft: false
 ---

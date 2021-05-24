@@ -3,8 +3,8 @@ title: "May 2021 Status Update"
 date: 2021-05-05T02:24:23-04:00
 categories: [business, art, technology, life, etc]
 tags: [status]
-author: Mike-E
-authors: [Mike-E]
+author: Mike-E-angelo
+authors: [Mike-E-angelo]
 featuredImage: ''
 draft: false
 ---

@@ -3,8 +3,8 @@ title: "November 2020 Status Update"
 date: 2020-11-17T05:44:23-05:00
 categories: [life, etc]
 tags: [status-update]
-author: Mike-E
-authors: [Mike-E]
+author: Mike-E-angelo
+authors: [Mike-E-angelo]
 featuredImage: ''
 draft: false
 ---

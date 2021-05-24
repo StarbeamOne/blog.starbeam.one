@@ -3,8 +3,8 @@ title: "Minding Distractions"
 date: 2020-11-18T02:17:42-05:00
 categories: [business, life, etc]
 tags: [social-media]
-author: Mike-E
-authors: [Mike-E]
+author: Mike-E-angelo
+authors: [Mike-E-angelo]
 featuredImage: ''
 draft: false
 ---

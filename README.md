@@ -1,2 +1,2 @@
 # blog.starbeam.one
-The Starbeam Project blog.
+The starbeam.one blog.

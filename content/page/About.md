@@ -6,7 +6,7 @@ showComments: false
 draft: false
 ---
 
-Welcome to The Starbeam Project Blog!  
+Welcome to the starbeam.one Blog!  
 
 I am your host, Michael DeMond -- aka Mike-E, or perhaps for the purposes of this project, Mike-E-angelo.  With a little luck, I hope to have the chance to explain why at some point. 😁
 

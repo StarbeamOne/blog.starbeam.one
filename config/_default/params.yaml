@@ -1,8 +1,8 @@
 css_modules: ['css/site.css']
 js_modules: []
-author: Mike-E
-subtitle: Thoughts on Digital Art and Beyond
-description: The Starbeam blog.
+author: Mike-E-angelo
+subtitle: Thoughts on Digital Licensing and Beyond
+description: starbeam.one blog.
 keywords: >-
     blog,personal,business,art,technology,life,etc,
     blazor,MSFT,writing,poetry,drawing
@@ -32,7 +32,7 @@ github: 'https://github.com/StarbeamOne'
 # linkedin: 'https://www.linkedin.com/company/dragonspark/'
 mailchimp: 'https://mailchi.mp/ee8794e55d0b/starbeam'
 rss: '/articles/index.xml'
-copyrightBy: The Starbeam Project
+copyrightBy: starbeam.one
 copyrightUseCurrentYear: true
 copyrightYearOverride: '2020'
 #copyrightUrl: 'https://github.com/Lednerb'

@@ -1,5 +1,5 @@
 ---
-title: "The Starbeam Project Newsletter"
+title: "starbeam.one Newsletter"
 slug: subscribe
 date: 2020-01-14T10:32:27-04:00
 draft: false
@@ -13,7 +13,7 @@ link: ""
 target: "_blank"
 ---
 
-Want The Starbeam Project delivered directly to you?  
+Want starbeam.one delivered directly to you?  
 
 Get monthly highlights delivered straight into your inbox.
 

@@ -6,7 +6,7 @@ tags: []
 author: Mike-E-angelo
 authors: [Mike-E-angelo]
 featuredImage: ''
-draft: true
+draft: false
 ---
 
 On our last check-in, I mentioned [working on some finishing features and then moving onto videos](/2021/05/may-2021-status-update/).  WELLLLLLLLL as it turns out, during that time a nifty article popped up across my RSS feed that I could not archive: 
@@ -32,7 +32,7 @@ To start, I put together a little blog post that outlines a little where my thin
 As part of the application, it asks for "less than 60 seconds" of the founder speaking about the product.  Hey there, it's ME!
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+src="https://www.youtube.com/embed/S5lSVNwH_Mg" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
@@ -40,7 +40,7 @@ allowfullscreen></iframe>
 Finally, there was an ask for a 2-minute demonstration of the product.  Trust me this is barely scratching the surface:
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+src="https://www.youtube.com/embed/YI0U8wJSqfU" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>

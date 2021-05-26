@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Starbeam Project Blog</title>
+    <title>starbeam.one Blog</title>
     <link>https://blog.starbeam.one/pages/</link>
-    <description>Recent content on The Starbeam Project Blog</description>
+    <description>Recent content on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 14 Jan 2020 10:32:27 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Starbeam Project Newsletter</title>
+      <title>starbeam.one Newsletter</title>
       <link>https://blog.starbeam.one/subscribe/</link>
       <pubDate>Tue, 14 Jan 2020 10:32:27 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/subscribe/</guid>
-      <description>&lt;p&gt;Want The Starbeam Project delivered directly to you?&lt;/p&gt;
+      <description>&lt;p&gt;Want starbeam.one delivered directly to you?&lt;/p&gt;
 &lt;p&gt;Get monthly highlights delivered straight into your inbox.&lt;/p&gt;</description>
     </item>
     
@@ -54,7 +54,7 @@ General Data Protection Regulation (GDPR)We are a Data Controller of your infor
       <pubDate>Tue, 29 Oct 2019 13:58:51 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/about/</guid>
-      <description>Welcome to The Starbeam Project Blog!
+      <description>Welcome to the starbeam.one Blog!
 I am your host, Michael DeMond &amp;ndash; aka Mike-E, or perhaps for the purposes of this project, Mike-E-angelo. With a little luck, I hope to have the chance to explain why at some point. 😁
 This is a little place that I have carved out in the interwebs for my latest project, Starbeam! With this blog, I hope to have a resource that I can utilize to share status updates regarding my new crazy idea, along with any other quick thoughts or dissertations that I wish to disperse to the public.</description>
     </item>

@@ -6,7 +6,7 @@ tags: []
 author: Mike-E-angelo
 authors: [Mike-E-angelo]
 featuredImage: ''
-draft: true
+draft: false
 ---
 
 To my mind, the "Creator Economy" (buzzwords, ugh) is much like the "Real Estate Economy" (😛) and can be divided into two segments:
@@ -20,11 +20,11 @@ With digital leasing, you pay a monthly fee (rent) and gain access to an entire 
 
 Seems a bit extreme, but as with renting vs. owning a home, it's a matter of personal style and taste.
 
-Enter the NFT mania that has been rocking the industry since March of this year.  If anything, it has elucidated the premise of digital ownership, demonstrating that is possible to "own" an asset that can be copied infinitely: by attaching a unique and limited license to it that certifies its identity, its authenticity, and thusly its value.
+Enter [the NFT mania](https://www.theverge.com/2021/4/10/22375289/the-week-in-nfts-ranked) that has been rocking the industry since March of this year.  If anything, it has elucidated the premise of digital ownership, clearly demonstrating that is possible to "own" an asset that can be copied infinitely: by attaching a unique and limited license to it that certifies its identity, its authenticity, and thusly its value.
 
 "But where is that value, exactly?" one might ask ([and commonly does](https://www.theverge.com/2021/3/25/22349242/nft-metadata-explained-art-crypto-urls-links-ipfs)).  In a word: resales.  Here again we call up the real estate comparison: if you own a piece of property (especially one that appreciates in value), you can then further resell it to another party at a later date for a price that is ideally more than you purchased it originally.
 
-That is the promise of real estate and the appeal of digital ownership.
+That is the promise of real estate (via "flipping") and the burgeoning appeal of digital ownership.
 
 In the case of digital ownership, you are not buying/reselling the "asset" (which can be copied infinitely) but the *license* to the asset (which cannot be copied, the result of which would be a faulted system).  
 
@@ -36,19 +36,19 @@ Fungible?  Fungus?  Fungii?  You mean magic mushrooms?  Mario Kart?  Both?!  Thi
 
 That leads us to "token" which is probably the most salvageable from this challenging expression.  "Token" can also mean "marker" which is one of the qualities of the digital license we have already discussed.  That is, if you are marked as owning a property, then you are the one and only one that can resell it.
 
-To say that I am not happy with the name NFT would be a fair statement.  Technically I am only 1/3 approving; we can do better.  NFTs simply point to the conceptual entity of a **digital license**.  So why not just call it that?  To me this is a perfect example of the inefficiency of the decentralized space at the moment.  Can it get better?  Sure, of course. But is it currently viable?  Nope, IMO.
+To say that I am not happy with the name NFT would be a fair statement.  Technically I am only 1/3 approving; we can do better.  NFTs simply point to the conceptual model of a **digital license**.  So why not just call it that?  To me, this is a pitch-perfect example of the inefficiency of the decentralized space at the moment.
 
 That doesn't mean it's without its merits, of course -- being able to enshrine licenses issued by a company that no longer exists being the greatest potential value.  One I hope to never utilize, of course. 😁
 
 But, consider along with its tongue-boggling name:
 
-- Well-used decentralized networks are *typically* congested, slow, and expensive
+- Well-used decentralized networks are mostly congested, slow, and expensive
 - Every transaction is based on an extremely volatile underlying asset
 - There are usually fees that are associated with transactions which in a traditional (centralized) service you would easily execute for free
 
 The fees are complicated too -- [this article has a great example](https://www.cnn.com/2021/03/14/tech/nft-art-buying/index.html) where they didn't even complete the purchase because the gas fees were more than the price of the item they were purchasing, and lowering the fee-o-meter *never completed the transaction*.  This is a CNN Business article, too!  A BUSINESS PUBLICATION COULDN'T DO BUSINESS WITH YOUR BUSINESS PROCESS.  Srsly.
 
-But let's back up and focus on the congested/slowness of the networks.  I know there are other blockchains out there besides ETH but no one is using them (or at least talking about them).  Sure, we're told that "the next version" of ETH is on its way, and it will solve everything, but miners are making a killing with the current model.  Who knows what a drastic change is going to do to the landscape?
+But let's back up and focus on the congested/slowness of the networks.  Now, I know there are other blockchains out there besides ETH but no one is using them (or at least talking about them).  Sure, we're told that "the next version" of ETH is on its way, and it will solve everything, but miners are making a killing with the current model.  Who knows what a drastic change is going to do to the landscape?
 
 Even then, let's say your fastest decentralized network gets 10,000 transactions-per-second ([ETH currently only does 20](https://blockchair.com/ethereum/charts/transactions-per-second) -- !), and this is considered higher-end of all the blockchain capabilities currently.  Keep in mind that is for the *entire* network, let alone for your particular contract.  So if the entire network has 9,999 smart contracts on it and each of them are doing 1 transaction per second, it doesn't give you a lot of room to operate, let alone scale.
 
@@ -66,12 +66,12 @@ As such, the opportunity as I see it involves creating a solution that is:
 
 This should enable a world where users:
 
-- Increase adoption as they are using familiar technology and processes with lesser risk (e.g. got a problem with fraud?  No problem we can reconcile it -- try doing that with a blockchain)
+- Increase adoption as they are using familiar technology and processes with lesser risk (e.g. got a problem with fraud?  No problem, it can be reconciled -- try doing that with a blockchain)
 - Don't have to pay for gas fees for basic transactions (i.e. "minting")
 - Have a *choice* whether they want to use blockchain or not for denoting their digital ownership (this simply does not exist right now -- you are forced onto an awkward blockchain whether you like it or not)
 
-Finally, it's interesting to note that in [real estate house ownership is the prominent segment by nearly a factor 2-to-1](https://www.policygenius.com/homeowners-insurance/homeowners-vs-renters-statistics/).  I would like to think that this is the same ultimate destination for digital ownership as well.  I would like to further think that starbeam.one is one of the first -- if not *the* first --  of over a dozen other *centralized, hybrid offerings* to enter this space in the next few years to capture this market and compete effectively against our purely decentralized friends (frienemies? 😆).
+Finally, it's interesting to note that in [real estate house ownership is the prominent segment by nearly a factor 2-to-1](https://www.policygenius.com/homeowners-insurance/homeowners-vs-renters-statistics/).  I would like to think that this is the same ultimate destination for digital ownership as well.  I would like to further think that starbeam.one is one of the first -- if not *the* first --  of over a dozen other *centralized, hybrid offerings* to enter this space in the next few years to capture this market and compete effectively against our purely decentralized friends ([frenemies](https://en.wikipedia.org/wiki/Frenemy)? 😆).
 
 Consider that [Disney+ alone pulled in nearly $20B last year](https://www.businessofapps.com/data/disney-plus-statistics/) and the streaming market is [projected to start approaching near the $1 TRILLION marker in the next six years](https://www.marketwatch.com/press-release/global-video-streaming-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-01#:~:text=It%20is%20set%20to%20reach,of%20the%20COVID%2D19%20pandemic.).  If digital ownership ever starts to reflect the ratio that real estate ownership enjoys, we are talking an opportunity that is conservatively $100s of billions in value per year.
 
-And if starbeam.one is one of a dozen companies that is collectively competing and capturing this $100B+ annual market... well, once you do the math you find yourself at the opportunity as I see it. ✌
+And if starbeam.one is one of a dozen companies that is collectively competing and capturing this $100B+ annual market... well, once you do the math you will find yourself at the opportunity as I see it. ✌

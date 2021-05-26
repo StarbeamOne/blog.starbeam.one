@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>technology on The Starbeam Project Blog</title>
+    <title>technology on starbeam.one Blog</title>
     <link>https://blog.starbeam.one/categories/technology/</link>
-    <description>Recent content in technology on The Starbeam Project Blog</description>
+    <description>Recent content in technology on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 May 2021 02:24:23 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 May 2021 09:14:20 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Opportunity as I See It</title>
+      <link>https://blog.starbeam.one/2021/05/the-opportunity-as-i-see-it/</link>
+      <pubDate>Mon, 24 May 2021 09:14:20 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/2021/05/the-opportunity-as-i-see-it/</guid>
+      <description>To my mind, the &amp;ldquo;Creator Economy&amp;rdquo; (buzzwords, ugh) is much like the &amp;ldquo;Real Estate Economy&amp;rdquo; (😛) and can be divided into two segments:
+ Digital leasing Digital ownership  Digital leasing should be familiar to anyone who has owned a computer since forever. It&amp;rsquo;s really the only way we have interfaced with digital &amp;ldquo;assets&amp;rdquo; ever since we have been able to copy them into a directory and subsequently paste them infinitely across as many devices we own and/or illicit networks of which we may (or may not 😇) be a member.</description>
+    </item>
+    
     <item>
       <title>May 2021 Status Update</title>
       <link>https://blog.starbeam.one/2021/05/may-2021-status-update/</link>

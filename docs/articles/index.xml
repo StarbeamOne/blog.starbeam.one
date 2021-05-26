@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Starbeam Project Blog</title>
+    <title>starbeam.one Blog</title>
     <link>https://blog.starbeam.one/articles/</link>
-    <description>Recent content on The Starbeam Project Blog</description>
+    <description>Recent content on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 May 2021 02:24:23 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 May 2021 14:42:29 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Startup Battlefield 2021 Application</title>
+      <link>https://blog.starbeam.one/2021/05/startup-battlefield-2021-application/</link>
+      <pubDate>Tue, 25 May 2021 14:42:29 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/2021/05/startup-battlefield-2021-application/</guid>
+      <description>On our last check-in, I mentioned working on some finishing features and then moving onto videos. WELLLLLLLLL as it turns out, during that time a nifty article popped up across my RSS feed that I could not archive:
+Deadline extended: Apply to Startup Battlefield at TC Disrupt 2021
+Extended?! Not by one but by TWO weeks? I started to look at the dates and schedule, and a butterflies-in-the-belly notion started to take hold: could I possibly conceive submitting an application to the tippy-top of all tech events and jump for the improbable if not impossible?</description>
+    </item>
+    
+    <item>
+      <title>The Opportunity as I See It</title>
+      <link>https://blog.starbeam.one/2021/05/the-opportunity-as-i-see-it/</link>
+      <pubDate>Mon, 24 May 2021 09:14:20 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/2021/05/the-opportunity-as-i-see-it/</guid>
+      <description>To my mind, the &amp;ldquo;Creator Economy&amp;rdquo; (buzzwords, ugh) is much like the &amp;ldquo;Real Estate Economy&amp;rdquo; (😛) and can be divided into two segments:
+ Digital leasing Digital ownership  Digital leasing should be familiar to anyone who has owned a computer since forever. It&amp;rsquo;s really the only way we have interfaced with digital &amp;ldquo;assets&amp;rdquo; ever since we have been able to copy them into a directory and subsequently paste them infinitely across as many devices we own and/or illicit networks of which we may (or may not 😇) be a member.</description>
+    </item>
+    
     <item>
       <title>May 2021 Status Update</title>
       <link>https://blog.starbeam.one/2021/05/may-2021-status-update/</link>

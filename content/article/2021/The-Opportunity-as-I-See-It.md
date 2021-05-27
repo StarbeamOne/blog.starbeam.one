@@ -24,19 +24,21 @@ Enter [the NFT mania](https://www.theverge.com/2021/4/10/22375289/the-week-in-nf
 
 "But where is that value, exactly?" one might ask ([and commonly does](https://www.theverge.com/2021/3/25/22349242/nft-metadata-explained-art-crypto-urls-links-ipfs)).  In a word: resales.  Here again we call up the real estate comparison: if you own a piece of property (especially one that appreciates in value), you can then further resell it to another party at a later date for a price that is ideally more than you purchased it originally.
 
-That is the promise of real estate (via "flipping") and the burgeoning appeal of digital ownership.
+That is the promise of real estate (i.e. "flipping") and the burgeoning appeal of digital ownership.
 
 In the case of digital ownership, you are not buying/reselling the "asset" (which can be copied infinitely) but the *license* to the asset (which cannot be copied, the result of which would be a faulted system).  
 
 Thus, the license is the entity that has value, and the resale of said license is where profit may occur to its (selling) holder.
 
-All that stated, it is my view that the NFT space is terribly inefficient with this entire process, and hence one of the reasons that I am building starbeam.one.  I mean, let's start with the name: non-fungible token.  Nothing says "inefficiency" better than a negation.  Congratulations on the cognitive debt you've just saddled upon everyone.   
+All that stated, it is my view that the NFT space is terribly inefficient with this entire process currently, and hence one of the reasons that I am building starbeam.one.  
+
+I mean, let's start with the name: non-fungible token.  Nothing says "inefficiency" better than a negation.  Congratulations on the cognitive debt you've just saddled upon everyone.   
 
 Fungible?  Fungus?  Fungii?  You mean magic mushrooms?  Mario Kart?  Both?!  This might be OK for your personal time, but for business I prefer something that denotes a bit more professionalism and stability.  But wait!  Do not forget our negation which means NONE OF THAT NOW I AM SO CONFUSED!!
 
 That leads us to "token" which is probably the most salvageable from this challenging expression.  "Token" can also mean "marker" which is one of the qualities of the digital license we have already discussed.  That is, if you are marked as owning a property, then you are the one and only one that can resell it.
 
-To say that I am not happy with the name NFT would be a fair statement.  Technically I am only 1/3 approving; we can do better.  NFTs simply point to the conceptual model of a **digital license**.  So why not just call it that?  To me, this is a pitch-perfect example of the inefficiency of the decentralized space at the moment.
+To say that I am not happy with the name NFT would be a fair statement.  Pedantically demonstrated, I am only 1/3 approving; we can do better.  NFTs simply point to the conceptual model of a **digital license**.  So why not just call it that?  To me, this is a pitch-perfect example of the inefficiency of the decentralized space at the moment.
 
 That doesn't mean it's without its merits, of course -- being able to enshrine licenses issued by a company that no longer exists being the greatest potential value.  One I hope to never utilize, of course. 😁
 
@@ -66,8 +68,8 @@ As such, the opportunity as I see it involves creating a solution that is:
 
 This should enable a world where users:
 
-- Increase adoption as they are using familiar technology and processes with lesser risk (e.g. got a problem with fraud?  No problem, it can be reconciled -- try doing that with a blockchain)
-- Don't have to pay for gas fees for basic transactions (i.e. "minting")
+- Increase adoption as they are using familiar technology and processes with lesser risk (e.g., got a problem with fraud?  No problem, it can be reconciled -- try doing that with a blockchain)
+- Don't have to pay for gas fees for basic transactions (i.e., "minting")
 - Have a *choice* whether they want to use blockchain or not for denoting their digital ownership (this simply does not exist right now -- you are forced onto an awkward blockchain whether you like it or not)
 
 Finally, it's interesting to note that in [real estate house ownership is the prominent segment by nearly a factor 2-to-1](https://www.policygenius.com/homeowners-insurance/homeowners-vs-renters-statistics/).  I would like to think that this is the same ultimate destination for digital ownership as well.  I would like to further think that starbeam.one is one of the first -- if not *the* first --  of over a dozen other *centralized, hybrid offerings* to enter this space in the next few years to capture this market and compete effectively against our purely decentralized friends ([frenemies](https://en.wikipedia.org/wiki/Frenemy)? 😆).

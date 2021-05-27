@@ -13,13 +13,13 @@ Everyone is trying to get rich off of NFTs.  To me, this is a natural extension 
 
 To be sure, there's no such thing as a quick buck in life.  You might get lucky, sure, but can you replicate this luck at scale?  Good luck with that.
 
-Coinciding with [its inefficiency](https://blog.starbeam.one/2021/05/the-opportunity-as-i-see-it/), the current state of the blockchain is well-suited to reflect what I consider to be the gallery model of ownership, which is denoted by high prices and lower quantities.
+Coinciding with [its inefficiency](https://blog.starbeam.one/2021/05/the-opportunity-as-i-see-it/), the current state of the blockchain is well-suited to reflect what I consider to be the *gallery model* of ownership, which is denoted by high prices and lower quantities.
 
-On the other end of the spectrum is where starbeam.one (and other centralized offerings -- once they see mine 😛) comes in, and that is the more traditional publishing model, which emphasizes the inverse: higher quantities at lower prices.
+On the other end of the spectrum is where starbeam.one (and other centralized offerings -- once they see mine 😛) comes in, and that is the more traditional *publishing model*, which emphasizes the inverse: higher quantities at lower prices.
 
-starbeam.one was actually started after I read [Kevin Kelly's seminal essay 1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/).  You will be hard pressed to find any NFT author who currently pushes 1,000 units of their work, let alone on the regular.  However, with a centralized approach this is a piece of cake and will become the norm.
+starbeam.one was actually started after I read [Kevin Kelly's seminal essay 1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/).  You will be hard pressed to find any NFT author who currently pushes 1,000 units of their work, let alone on the regular.  However, with a centralized approach this goal is a piece of cake and will become the norm.
 
-Along with the efficient processing that a centralized approach offers, the key reaching 1,000 true fans is lower prices.  Think of a comic book (another source of inspiration for my efforts here).  You pay $4-5 and that feeds an entire team, as well as its entire distribution network which includes issuance, all the transportation, and ultimately the shop you bought it at.  The team sells this at $4-5 because it aims to sell *a lot* of them -- as many as possible.
+Along with the efficient processing that a centralized approach offers, the key to reaching 1,000 true fans is lower prices.  Think of a comic book (another source of inspiration for my efforts here).  You pay $4-5 and that feeds an entire team, as well as its entire distribution network which includes issuance, all the transportation, and ultimately the shop you bought it at.  The team sells this at $4-5 because it aims to sell *a lot* of them -- as many as possible.
 
 Now let's take that same "spirit" and move it to the digital.  With a digital offering, you can accomplish the same disbursement, but 100% of it goes *directly* to the originating creator(s), as well as royalties from any resale (something that is impossible with current physical paradigms).  
 

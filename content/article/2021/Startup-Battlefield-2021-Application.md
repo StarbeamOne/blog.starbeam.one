@@ -36,6 +36,7 @@ src="https://www.youtube.com/embed/S5lSVNwH_Mg"
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+(Yes, a [not-so-subtle shout out](https://youtu.be/B8C5sjjhsso) in there. 😁)
 
 Finally, there was an ask for a 2-minute demonstration of the product.  Trust me this is barely scratching the surface:
 

@@ -25,7 +25,7 @@ The most obvious to me is that at some point I would like to believe that if wor
 
 The other consideration is perhaps creating a new product/system that allows products to live on after the system has passed.  Something that is a little different from the blockchain.  A new file format, perhaps?  Kind of an intriguing proposition that requires more thought.
 
-Keep in mind that starbeam.one plans to eventually support numerous blockchains.  So the "off-ramps" should be there.  The primary risk is failing before those integration bridges are fully built.  However, just because the off-ramps have been built does not mean the products can be effectively enshrined.  The off-ramps will still point back to our centralized/hosted assets.  To properly enshrine these puppies we will need to get those assets into an accessible form, whether hosted on decentralized solutions (e.g. IPFS), or something more novel where owners can host them on OneDrive/G-Drive/etc.  
+Keep in mind that starbeam.one plans to eventually support numerous blockchains.  So the "off-ramps" should be there.  The primary risk is failing before those integration bridges are fully built.  However, just because the off-ramps have been built does not mean the products can be effectively enshrined.  The off-ramps will still point back to our centralized/hosted assets.  To properly enshrine these puppies we will need to get those assets into an accessible form, whether hosted on decentralized solutions (e.g. IPFS), or something more novel where owners can collectively host them on OneDrive/G-Drive/etc.  
 
 Additionally, when sales/resales occur they will somehow interface with the corporate entity.  If the process is enshrined we will have to find a way to get royalties back to the creator.
 
@@ -35,5 +35,5 @@ In any case, this is the one area that I fully concede the blockchain has the up
 
 What's important is that this threat is not only properly identified, but finding investors that also understand this risk and account for this accordingly.  We have to ensure that the products sold are properly enshrined somehow in the event of the catastrophic (and in my case, unthinkable).
 
-Ironically, doing so only furthers confidence in the system, which should improve adoption, which makes it less likely that we will have to utilize such a plan. ✌
+Ironically, doing so only furthers confidence in the system, which should improve adoption, which correspondingly makes it less likely that we will ever have to utilize such a plan in the first place. ✌
 

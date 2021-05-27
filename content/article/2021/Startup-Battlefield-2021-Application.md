@@ -37,6 +37,8 @@ But that's not all!  I managed to squeeze out a few more articles this morning. 
 
 OK now onto the good stuff.  As part of the application, it asks for "less than 60 seconds" of the founder speaking about the product.  Hey there, it's ME!
 
+### Introduction
+
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/OyGdb2clDek" 
 frameborder="0" 
@@ -45,6 +47,8 @@ allowfullscreen></iframe>
 
 
 (Yes, a [not-so-subtle shout out](https://youtu.be/B8C5sjjhsso) in there. 😁)
+
+### Demonstration
 
 Finally, there was an ask for a 2-minute demonstration of the product.  Trust me this is barely scratching the surface:
 

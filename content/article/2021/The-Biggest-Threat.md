@@ -29,4 +29,4 @@ In any case, this is the one area that I fully concede the blockchain has the up
 
 What's important is that this threat is not only properly identified, but finding investors that also understand this risk and account for this accordingly.  We have to ensure that the products sold are properly enshrined somehow in the event of the catastrophic (and in my case, unthinkable).
 
-Ironically, doing so only furthers confidence in the system, which makes it less likely that we will have to lean on such a plan.
+Ironically, doing so only furthers confidence in the system, which should improve adoption, which makes it less likely that we will have to lean on such a plan. ✌

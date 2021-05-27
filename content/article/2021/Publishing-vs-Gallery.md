@@ -29,4 +29,4 @@ So, with starbeam.one, what I focus on is more of a publishing model, and incent
 
 This is a clear departure from the NFT space, where it's all about finding dubious anonymous "investors" (i.e. parties who bought millions of these [infinite tokens](https://www.reddit.com/r/ethereum/comments/mf28do/simple_ethereum_question_unlimited_supply/) when they were pennies a piece) who will dole out the most outrageous of prices in the name of shill.  Hey, I am all for that, free market and all.  I just don't think that is long-term viable or a model that I could fully recommend to another creator.
 
-Finding your audience (of 1,000) and selling them product on the monthly for a lower costs ($2-3) seems like a much more viable, natural, and long-term value proposition for creators, and one I intend to provide with starbeam.one.
+Finding your audience (of 1,000) and selling them product on the monthly for a lower costs ($2-3) seems like a much more viable, natural, and long-term value proposition for creators, and one I intend to provide with starbeam.one. ✌

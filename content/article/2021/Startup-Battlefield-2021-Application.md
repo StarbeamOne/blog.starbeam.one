@@ -1,6 +1,6 @@
 ---
 title: "Startup Battlefield 2021 Application"
-date: 2021-05-25T14:42:29-04:00
+date: 2021-05-27T14:42:29-04:00
 categories: [business, life]
 tags: []
 author: Mike-E-angelo
@@ -29,13 +29,21 @@ To start, I put together a little blog post that outlines a little where my thin
 
 [The Opportunity as I See It](/2021/05/the-opportunity-as-i-see-it/)
 
-As part of the application, it asks for "less than 60 seconds" of the founder speaking about the product.  Hey there, it's ME!
+But that's not all!  I managed to squeeze out a few more articles this morning.  I AM ON A ROLL HERE:
+
+- [The Blockchain is Just an Application](https://blog.starbeam.one/2021/05/the-blockchain-is-just-an-application/)
+- [The Biggest Threat](https://blog.starbeam.one/2021/05/the-biggest-threat/)
+- [Publishing vs. Gallery](https://blog.starbeam.one/2021/05/publishing-vs-gallery/)
+
+OK now onto the good stuff.  As part of the application, it asks for "less than 60 seconds" of the founder speaking about the product.  Hey there, it's ME!
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/S5lSVNwH_Mg" 
+src="https://www.youtube.com/embed/OyGdb2clDek" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+
+
 (Yes, a [not-so-subtle shout out](https://youtu.be/B8C5sjjhsso) in there. 😁)
 
 Finally, there was an ask for a 2-minute demonstration of the product.  Trust me this is barely scratching the surface:

@@ -25,15 +25,6 @@
     </item>
     
     <item>
-      <title>life</title>
-      <link>https://blog.starbeam.one/categories/life/</link>
-      <pubDate>Tue, 25 May 2021 14:42:29 -0400</pubDate>
-      
-      <guid>https://blog.starbeam.one/categories/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>art</title>
       <link>https://blog.starbeam.one/categories/art/</link>
       <pubDate>Wed, 05 May 2021 02:24:23 -0400</pubDate>
@@ -48,6 +39,15 @@
       <pubDate>Wed, 05 May 2021 02:24:23 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/etc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://blog.starbeam.one/categories/life/</link>
+      <pubDate>Wed, 05 May 2021 02:24:23 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/categories/life/</guid>
       <description></description>
     </item>
     

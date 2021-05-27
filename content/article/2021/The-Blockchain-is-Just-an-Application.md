@@ -19,11 +19,11 @@ In any case, despite how its stored, or how its validated, its reach and authori
 
 If a vendor creates 10 products on blockchain X and then another 10 on blockchain Y of the same type, which set is the official 10 products?
 
-Here is where a centralized resource (AKA "oracle" -- so fancy!) has the advantage.  The centralized source has the official record of product inventory, as well as the official record of which blockchain it is currently tracking ownership.
+Here is where a centralized resource (AKA "oracle" -- so fancy!) has the advantage.  The centralized source has the official record of product inventory, as well as the official record of which blockchain it is currently tracking ownership.  Using this approach you can enable a scenario where a product exits the centralized boundary, makes its way through blockchain X, then after a resale or two back onto the centralized boundary, then exits again onto blockchain Y.
 
 It's funny that when I first started to explore NFTs and asset issuance with blockchains -- most notably the [Colored Coins with Bitcoin](https://en.bitcoin.it/wiki/Colored_Coins), no less -- one of the selling points was that this could be done with existing assets already tracked using centralized sources.
 
-It seems that no one really thought about doing this with digital goods (ala centralized version of "NFTs") so that was one of the reasons why I set out to do this starbeam.one -- to be proved that it could be done.
+It seems that no one really thought about doing this with the digital tokens that the blockchain actually allowed (ala centralized version of "NFTs") so that was one of the reasons why I set out to do this starbeam.one -- to prove that it could be done.
 
 Anyways, back to the point (there is a point here, right?): there isn't anything special about a blockchain except perhaps with how it validates its transactions.  Its authority only applies to the machines its on, and does not "reach" into anything else.
 

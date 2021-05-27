@@ -17,17 +17,19 @@ Extended?!  Not by one but by TWO weeks?  I started to look at the dates and sch
 
 ![](https://media3.giphy.com/media/XWwIzh5GIWWf6/giphy.gif?cid=ecf05e47rfzcr28y5ync4a8ach2mhlcn4eer94xb0xw6e0mv&rid=giphy.gif&ct=g)
 
-Of course, as much of a long shot as I am, this would involve me getting "on stage" (virtual or not) at some point, having to confront my crippling condition of performance anxiety.  There's also the fact that the product isn't even in alpha yet (but should be by the event), is it too soon?!
+There's also the fact that the product isn't even in alpha yet (but should be by the event), is it too soon?!  Am I even the right candidate here?!  SO MANY QUESTIONS.  SO MUCH UNKNOWN.  Must find out. :)
 
-Needless to say that [I am at peak imposter syndrome here](https://en.wikipedia.org/wiki/Impostor_syndrome).  Maybe I will get lucky and my application is promptly discarded.  HAVE I TALKED MYSELF OUT OF THIS YET?! 😁
-
-Nonetheless, such an opportunity will make me a stronger person, and that's really what I ultimately forced myself to accept the challenge.  Plus, I will get an opportunity to talk about what I have been working on for the past year and a half, starting with this blog post. PLUS PLUS, if accepted there is a free subscription to [Extra Crunch](https://techcrunch.com/extracrunch/) to boot which the frugal demon in me has been fighting against purchasing for months now.  NEVERMIND THE $100K, NOT HAVING TO PAY A MONTHLY FEE FOR A YEAR IS WHAT I AM HERE FOR!!!
+Ultimately, such an opportunity will make me a stronger person, and that's really what forced me to accept the challenge.  Plus, I will get an opportunity to talk about what I have been working on for the past year and a half, starting with this very blog post. PLUS PLUS, if accepted there is a free subscription to [Extra Crunch](https://techcrunch.com/extracrunch/) to boot which the frugal demon in me has been fighting against purchasing for months now.  NEVERMIND THE $100K, NOT HAVING TO PAY A MONTHLY FEE FOR A YEAR IS WHAT I AM HERE FOR!!!
 
 OK, let's give this a shot. WHY NOT? (don't answer that)
+
+### Content
 
 To start, I put together a little blog post that outlines a little where my thinking is these days:
 
 [The Opportunity as I See It](/2021/05/the-opportunity-as-i-see-it/)
+
+### Bonus Content
 
 But that's not all!  I managed to squeeze out a few more articles this morning.  I AM ON A ROLL HERE:
 

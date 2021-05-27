@@ -1,7 +1,7 @@
 ---
 title: "The Biggest Threat"
 date: 2021-05-27T00:05:29-04:00
-categories: [business, art, technology, life, etc]
+categories: [business]
 tags: []
 author: Mike-E-angelo
 authors: [Mike-E-angelo]

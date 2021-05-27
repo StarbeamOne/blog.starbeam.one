@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 27 May 2021 00:22:20 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>art</title>
-      <link>https://blog.starbeam.one/categories/art/</link>
-      <pubDate>Thu, 27 May 2021 00:22:20 -0400</pubDate>
-      
-      <guid>https://blog.starbeam.one/categories/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>business</title>
       <link>https://blog.starbeam.one/categories/business/</link>
       <pubDate>Thu, 27 May 2021 00:22:20 -0400</pubDate>
@@ -25,29 +16,38 @@
     </item>
     
     <item>
-      <title>etc</title>
-      <link>https://blog.starbeam.one/categories/etc/</link>
-      <pubDate>Thu, 27 May 2021 00:22:20 -0400</pubDate>
+      <title>technology</title>
+      <link>https://blog.starbeam.one/categories/technology/</link>
+      <pubDate>Thu, 27 May 2021 00:22:01 -0400</pubDate>
       
-      <guid>https://blog.starbeam.one/categories/etc/</guid>
+      <guid>https://blog.starbeam.one/categories/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
       <link>https://blog.starbeam.one/categories/life/</link>
-      <pubDate>Thu, 27 May 2021 00:22:20 -0400</pubDate>
+      <pubDate>Tue, 25 May 2021 14:42:29 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>technology</title>
-      <link>https://blog.starbeam.one/categories/technology/</link>
-      <pubDate>Thu, 27 May 2021 00:22:20 -0400</pubDate>
+      <title>art</title>
+      <link>https://blog.starbeam.one/categories/art/</link>
+      <pubDate>Wed, 05 May 2021 02:24:23 -0400</pubDate>
       
-      <guid>https://blog.starbeam.one/categories/technology/</guid>
+      <guid>https://blog.starbeam.one/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>etc</title>
+      <link>https://blog.starbeam.one/categories/etc/</link>
+      <pubDate>Wed, 05 May 2021 02:24:23 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/categories/etc/</guid>
       <description></description>
     </item>
     

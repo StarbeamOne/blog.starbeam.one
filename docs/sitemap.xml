@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://blog.starbeam.one/categories/art/</loc>
-    <lastmod>2021-05-27T00:22:20-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.starbeam.one/authors/</loc>
     <lastmod>2021-05-27T00:22:20-04:00</lastmod>
   </url>
@@ -24,16 +19,6 @@
   
   <url>
     <loc>https://blog.starbeam.one/categories/</loc>
-    <lastmod>2021-05-27T00:22:20-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.starbeam.one/categories/etc/</loc>
-    <lastmod>2021-05-27T00:22:20-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.starbeam.one/categories/life/</loc>
     <lastmod>2021-05-27T00:22:20-04:00</lastmod>
   </url>
   
@@ -54,7 +39,7 @@
   
   <url>
     <loc>https://blog.starbeam.one/categories/technology/</loc>
-    <lastmod>2021-05-27T00:22:20-04:00</lastmod>
+    <lastmod>2021-05-27T00:22:01-04:00</lastmod>
   </url>
   
   <url>
@@ -68,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://blog.starbeam.one/categories/life/</loc>
+    <lastmod>2021-05-25T14:42:29-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.starbeam.one/2021/05/startup-battlefield-2021-application/</loc>
     <lastmod>2021-05-25T14:42:29-04:00</lastmod>
   </url>
@@ -75,6 +65,16 @@
   <url>
     <loc>https://blog.starbeam.one/2021/05/the-opportunity-as-i-see-it/</loc>
     <lastmod>2021-05-24T09:14:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starbeam.one/categories/art/</loc>
+    <lastmod>2021-05-05T02:24:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starbeam.one/categories/etc/</loc>
+    <lastmod>2021-05-05T02:24:23-04:00</lastmod>
   </url>
   
   <url>

@@ -1,7 +1,7 @@
 ---
 title: "The Blockchain is Just an Application"
 date: 2021-05-27T00:22:01-04:00
-categories: [business, art, technology, life, etc]
+categories: [business, technology]
 tags: []
 author: Mike-E-angelo
 authors: [Mike-E-angelo]

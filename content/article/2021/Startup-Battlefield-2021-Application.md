@@ -1,6 +1,6 @@
 ---
 title: "Startup Battlefield 2021 Application"
-date: 2021-05-27T14:42:29-04:00
+date: 2021-05-27T10:42:29-04:00
 categories: [business, life]
 tags: []
 author: Mike-E-angelo

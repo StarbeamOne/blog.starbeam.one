@@ -59,6 +59,8 @@ src="https://www.youtube.com/embed/YI0U8wJSqfU"
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+
+
 Additionally, this process accelerated my incorporation time, which I was originally circling around August but now I am officially incorporated as of May 18, 2021, courtesy of [Gust](https://gust.com/launch?partner_code=60a3de47e89d960004e4ee18) (recommended by [Northern Michigan Angels](https://www.northernmichiganangels.com/) who I am interested in connecting with as well).
 
 So there you go.  A little bit of what I am working on and how I feel about the space lately.  Thank you for any consideration!

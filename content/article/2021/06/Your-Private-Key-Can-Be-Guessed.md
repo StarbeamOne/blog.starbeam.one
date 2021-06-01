@@ -17,7 +17,7 @@ That conceivably means that if someone guesses that number, they have access to 
 
 [There is even a site that is dedicated to you trying this out](https://keys.lol/).
 
-Now, the number is *really* large, and that is of course by design and what makes this "secure."  To give you an idea how large, if you were somehow able to get a 1,000 machines in place that could each guess 1 trillion times a second each (for atotal of [1 quadrillion guesses a second](https://www.quora.com/What-is-a-trillion-times-a-thousand)), it would take you roughly ~46,343,912,903,694,300 years to guess one address, assuming there are 1 billion ETH addresses on the network ([there are currently 175M](https://etherscan.io/chart/address), so it would take even longer today).
+Now, the number is *really* large, and that is of course by design and what makes this "secure."  To give you an idea how large, if you were somehow able to get a 1,000 machines in place that could each guess 1 trillion times a second each (for a total of [1 quadrillion guesses a second](https://www.quora.com/What-is-a-trillion-times-a-thousand)), it would take you roughly ~46,343,912,903,694,300 years to guess one address, assuming there are 1 billion ETH addresses on the network ([there are currently 175M](https://etherscan.io/chart/address), so it would take even longer today).
 
 At first blush, this appears to be not a problem.  And it *probably* isn't, but it's definitely something to be aware of when deciding if the decentralized space is suitable for you and your use.  Because it's decentralized, there's no "authority" to appeal to if someone guesses that number -- as unlikely that it is to occur.
 

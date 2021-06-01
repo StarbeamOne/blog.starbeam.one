@@ -31,11 +31,12 @@ To start, I put together a little blog post that outlines a little where my thin
 
 ### Bonus Content
 
-But that's not all!  I managed to squeeze out a few more articles this morning.  I AM ON A ROLL HERE:
+But that's not all!  I managed to squeeze out a few more articles throughout this week and more.  I AM ON A ROLL HERE:
 
 - [The Blockchain is Just an Application](https://blog.starbeam.one/2021/05/the-blockchain-is-just-an-application/)
 - [The Biggest Threat](https://blog.starbeam.one/2021/05/the-biggest-threat/)
 - [Publishing vs. Gallery](https://blog.starbeam.one/2021/05/publishing-vs-gallery/)
+- [Decentralization Is a Foreign Land](/2021/05/decentralization-is-a-foreign-land/)
 
 OK now onto the good stuff.  As part of the application, it asks for "less than 60 seconds" of the founder speaking about the product.  Hey there, it's ME!
 

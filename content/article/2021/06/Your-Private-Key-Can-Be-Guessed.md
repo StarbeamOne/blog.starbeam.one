@@ -6,7 +6,7 @@ tags: []
 author: Mike-E-angelo
 authors: [Mike-E-angelo]
 featuredImage: ''
-draft: true
+draft: false
 ---
 
 One final thought here and I'll finish.  I promise. 😁

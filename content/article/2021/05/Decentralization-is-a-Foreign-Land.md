@@ -28,7 +28,7 @@ Well, in my estimation, the decentralized mindset is so foreign.  It is complete
 
 🤷‍♂️ 🤷‍♂️ 🤷‍♂️ 🤷‍♂️ 🤷‍♂️
 
-These sorts of barriers are difficult to adjust to and are not for everyone (especially with the prominently cynical & critical attitude from the crypto community but that's another topic altogether).  This might explain why artists can get their friends and family to onboard onto the NFT hype (adoption) but struggle getting *their friends' friends and family* to onboard (mass adoption).
+These sorts of barriers are difficult to adjust to, and are not for everyone (especially with the prominently cynical & critical attitude from the crypto community but that's another topic altogether).  This might explain why artists can get their friends and family to onboard onto the NFT hype (adoption) but struggle getting *their friends' friends and family* to onboard (mass adoption).
 
 While decentralization promotes self-responsibility and individual sovereignty, what it fails to account for is a very basic human truth, particularly in peace time: *people are lazy*.
 

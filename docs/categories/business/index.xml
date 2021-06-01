@@ -5,7 +5,18 @@
     <link>https://blog.starbeam.one/categories/business/</link>
     <description>Recent content in business on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 May 2021 03:32:56 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/business/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 07:40:25 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Private Key Can Be Guessed</title>
+      <link>https://blog.starbeam.one/2021/06/your-private-key-can-be-guessed/</link>
+      <pubDate>Tue, 01 Jun 2021 07:40:25 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/2021/06/your-private-key-can-be-guessed/</guid>
+      <description>One final thought here and I&amp;rsquo;ll finish. I promise. 😁
+In addition to some of the risks I outlined earlier in this article with regards to cryptocurrency, there&amp;rsquo;s one in particular that I feel needs extra mention. Namely, the private key that keeps your value safe is simply a number: a very very very large number.
+That conceivably means that if someone guesses that number, they have access to your wallet.</description>
+    </item>
+    
     <item>
       <title>Decentralization Is a Foreign Land</title>
       <link>https://blog.starbeam.one/2021/05/decentralization-is-a-foreign-land/</link>

@@ -33,10 +33,11 @@ To start, I put together a little blog post that outlines a little where my thin
 
 But that's not all!  I managed to squeeze out a few more articles throughout this week and more.  I AM ON A ROLL HERE:
 
-- [The Blockchain is Just an Application](https://blog.starbeam.one/2021/05/the-blockchain-is-just-an-application/)
-- [The Biggest Threat](https://blog.starbeam.one/2021/05/the-biggest-threat/)
-- [Publishing vs. Gallery](https://blog.starbeam.one/2021/05/publishing-vs-gallery/)
+- [The Blockchain is Just an Application](/2021/05/the-blockchain-is-just-an-application/)
+- [The Biggest Threat](/2021/05/the-biggest-threat/)
+- [Publishing vs. Gallery](/2021/05/publishing-vs-gallery/)
 - [Decentralization Is a Foreign Land](/2021/05/decentralization-is-a-foreign-land/)
+- [Your Private Key Can Be Guessed](/2021/06/your-private-key-can-be-guessed/)
 
 OK now onto the good stuff.  As part of the application, it asks for "less than 60 seconds" of the founder speaking about the product.  Hey there, it's ME!
 

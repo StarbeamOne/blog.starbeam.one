@@ -24,8 +24,9 @@ Well, in my estimation, the decentralized mindset is so foreign.  It is complete
 - Lost your seed words/password/keys?  Tough luck. You've now lost access to the entire value of the wallet that stores it. 🤷‍♂️
 - Got scammed out of your entire wallet value?  "Should have done your research 🤷‍♂️" (common refrain from crypto apologists).
 - [Got tortured with a drill until you gave up your keys](https://www.independent.co.uk/life-style/gadgets-and-tech/news/bitcoin-robbery-torture-cryptocurrency-netherlands-a8807986.html)?  Well, should have known what "[being your own bank](https://www.cryptovantage.com/news/be-your-own-bank-with-bitcoin/)" really means. 🤷‍♂️
+- Someone [guessed your private key](/2021/06/your-private-key-can-be-guessed/)?  What, you didn't have the 4-5 years to really study this space to find out how it really works? 🤷‍♂️
 
-🤷‍♂️ 🤷‍♂️ 🤷‍♂️
+🤷‍♂️ 🤷‍♂️ 🤷‍♂️ 🤷‍♂️ 🤷‍♂️
 
 These sorts of barriers are difficult to adjust to and are not for everyone (especially with the prominently cynical & critical attitude from the crypto community but that's another topic altogether).  This might explain why artists can get their friends and family to onboard onto the NFT hype (adoption) but struggle getting *their friends' friends and family* to onboard (mass adoption).
 

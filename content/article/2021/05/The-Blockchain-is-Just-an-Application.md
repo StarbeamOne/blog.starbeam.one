@@ -13,7 +13,7 @@ The blockchain is just an application.  Everyone is going nuts over blockchain n
 
 But let's keep in mind that a blockchain is basically an application.  It's an application that runs on one or more computers (nodes) that comprise a network.  Its authority only extends to the processes it executes in on those computers.
 
-What's novel about the blockchain is how it validates its transactions and stores state.  It's a decentralized database that is tamperproof.  I hate saying it's tamperproof because:
+What's novel about the blockchain is how it validates its transactions and stores state.  It's a decentralized database that is tamperproof.  Although, I really hate saying it's "tamperproof" because:
 
 - It's tamperproof [until it isn't](https://spectrum.ieee.org/computing/hardware/how-the-spectre-and-meltdown-hacks-really-worked), and 
 - There's an implication that centralized databases cannot be tamperproof when there's [all sorts of auditing technology](https://docs.microsoft.com/en-us/sql/relational-databases/security/auditing/sql-server-audit-database-engine?view=sql-server-ver15) that make it rather secure in this area from the outset.

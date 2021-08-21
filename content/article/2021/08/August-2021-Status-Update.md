@@ -23,6 +23,18 @@ As such, switching to an `IDbContextFactory` pattern is recommended as there is 
 
 This is technical debt in the most basic of terms.  However, it's really the only one I want to pick at with my codebase, which, at roughly 5,500 files at present is not a bad thing.
 
-So that's a little of my world.  With all of the delays from upgrading and identity system, the alpha launch has been pushed back a bit.  We'll see if I can make up ground but February looks like a good spot now to have everything deployed, use, and documented.
+So that's a little of my world.  With all of the delays from upgrading and identity system, I've had to remove the "Feature X" [mentioned last month](https://blog.starbeam.one/2021/07/july-2021-status-update/).  We'll see if I can make up ground but February still looks like a good spot now to have everything deployed, use, and documented.
+
+So currently it is:
+
+- **August:** Entity refactor
+- **September:** Identity system refactor
+- **October:** Administration application (for running things behind the scenes)
+- **November:** Deployments to Azure
+- **December:** Demonstration/videos/marketing
+- **January:** Attempt to squeeze in Feature X 🤞
+- **February:** MVP Primordial Alpha Announcement 
+
+
 
 Let's see how it goes. 🤞

@@ -161,7 +161,17 @@
 <p>To further illustrate the issue, with each <code>DbContext</code> created, there is also all the other components that go along with it, namely the <code>IQueryable</code> instances and components that are needed to pull all the data throughout the system.  Again for every session the user creates, each and every one of those components also get instantiated and stored per session along with that <code>DbContext</code>, adding to the memory utilization.</p>
 <p>As such, switching to an <code>IDbContextFactory</code> pattern is recommended as there is one singleton factory and as many <code>DbContext</code>s can be made as per-unit-of-work and then disposed immediately.  This is a completely different way of doing business, however, and I am wrestling with the best way of moving forward with it,  currently.</p>
 <p>This is technical debt in the most basic of terms.  However, it&rsquo;s really the only one I want to pick at with my codebase, which, at roughly 5,500 files at present is not a bad thing.</p>
-<p>So that&rsquo;s a little of my world.  With all of the delays from upgrading and identity system, the alpha launch has been pushed back a bit.  We&rsquo;ll see if I can make up ground but February looks like a good spot now to have everything deployed, use, and documented.</p>
+<p>So that&rsquo;s a little of my world.  With all of the delays from upgrading and identity system, I&rsquo;ve had to remove the &ldquo;Feature X&rdquo; <a href="https://blog.starbeam.one/2021/07/july-2021-status-update/">mentioned last month</a>.  We&rsquo;ll see if I can make up ground but February still looks like a good spot now to have everything deployed, use, and documented.</p>
+<p>So currently it is:</p>
+<ul>
+<li><strong>August:</strong> Entity refactor</li>
+<li><strong>September:</strong> Identity system refactor</li>
+<li><strong>October:</strong> Administration application (for running things behind the scenes)</li>
+<li><strong>November:</strong> Deployments to Azure</li>
+<li><strong>December:</strong> Demonstration/videos/marketing</li>
+<li><strong>January:</strong> Attempt to squeeze in Feature X 🤞</li>
+<li><strong>February:</strong> MVP Primordial Alpha Announcement</li>
+</ul>
 <p>Let&rsquo;s see how it goes. 🤞</p>
 
     

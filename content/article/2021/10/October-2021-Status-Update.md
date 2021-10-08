@@ -6,7 +6,7 @@ tags: [status]
 author: Mike-E-angelo
 authors: [Mike-E-angelo]
 featuredImage: ''
-draft: true
+draft: false
 ---
 
 Goodness, has it been two months already?  I have been in a total coding slog since the last checkin, having to battle two coding fronts that address technical debt concerns:

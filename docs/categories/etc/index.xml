@@ -5,7 +5,17 @@
     <link>https://blog.starbeam.one/categories/etc/</link>
     <description>Recent content in etc on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Aug 2021 07:30:55 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/etc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Oct 2021 03:50:07 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/etc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>October 2021 Status Update</title>
+      <link>https://blog.starbeam.one/2021/10/october-2021-status-update/</link>
+      <pubDate>Fri, 08 Oct 2021 03:50:07 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/2021/10/october-2021-status-update/</guid>
+      <description>Goodness, has it been two months already? I have been in a total coding slog since the last checkin, having to battle two coding fronts that address technical debt concerns:
+ Identity System (95% complete) Entity Framework Data Access Refactor (65% complete)  The Entity Framework story is a bit further along than it suggests. Part of the issue is that currently all worker processes run in session scope, which makes sense.</description>
+    </item>
+    
     <item>
       <title>August 2021 Status Update</title>
       <link>https://blog.starbeam.one/2021/08/august-2021-status-update/</link>

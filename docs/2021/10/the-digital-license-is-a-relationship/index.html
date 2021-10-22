@@ -19,14 +19,14 @@
         <meta name="description" content="starbeam.one blog.">
         <meta name="keywords" content="blog,personal,business,art,technology,life,etc, blazor,MSFT,writing,poetry,drawing">
         <meta name="generator" content="Hugo 0.78.2" />
-        <title> August 2021 Status Update | starbeam.one Blog</title>
-        <meta name="description" content="August 2021 Status Update - starbeam.one blog.">
-        <meta itemprop="name" content="August 2021 Status Update">
-        <meta itemprop="description" content="August 2021 Status Update - starbeam.one blog.">
-        <meta property="og:title" content="August 2021 Status Update">
-        <meta property="og:description" content="August 2021 Status Update - starbeam.one blog.">
+        <title> The  Digital License Is a Relationship | starbeam.one Blog</title>
+        <meta name="description" content="The  Digital License Is a Relationship - starbeam.one blog.">
+        <meta itemprop="name" content="The  Digital License Is a Relationship">
+        <meta itemprop="description" content="The  Digital License Is a Relationship - starbeam.one blog.">
+        <meta property="og:title" content="The  Digital License Is a Relationship">
+        <meta property="og:description" content="The  Digital License Is a Relationship - starbeam.one blog.">
         <meta property="og:image" content="https://www.gravatar.com/avatar/b800bcac18b8087424c3574afd87a49b?size=200">
-        <meta property="og:url" content="https://blog.starbeam.one/2021/08/august-2021-status-update/">
+        <meta property="og:url" content="https://blog.starbeam.one/2021/10/the-digital-license-is-a-relationship/">
         <meta property="og:site_name" content="starbeam.one Blog">
         <meta property="og:type" content="article">
 		<link rel="icon" type="image/png" href="https://blog.starbeam.one/favicon-96x96.png" sizes="96x96">
@@ -34,8 +34,8 @@
         <link rel="icon" type="image/png" href="https://blog.starbeam.one/favicon-16x16.png" sizes="16x16">
 
 	
-	  <link href="https://blog.starbeam.one/2021/08/august-2021-status-update/" rel="alternate" type="application/rss+xml" title="starbeam.one Blog" />
-	  <link href="https://blog.starbeam.one/2021/08/august-2021-status-update/" rel="feed" type="application/rss+xml" title="starbeam.one Blog" />
+	  <link href="https://blog.starbeam.one/2021/10/the-digital-license-is-a-relationship/" rel="alternate" type="application/rss+xml" title="starbeam.one Blog" />
+	  <link href="https://blog.starbeam.one/2021/10/the-digital-license-is-a-relationship/" rel="feed" type="application/rss+xml" title="starbeam.one Blog" />
 	
 
         
@@ -111,7 +111,7 @@
      
     <div class="article-wrapper u-cf single">
         
-            <a class="bubble" href="https://blog.starbeam.one/2021/08/august-2021-status-update/">
+            <a class="bubble" href="https://blog.starbeam.one/2021/10/the-digital-license-is-a-relationship/">
     <i class="fa fa-fw fa-pencil"></i>
 </a>
 
@@ -121,13 +121,13 @@
 
     <div class="content">
 	
-		<h2><a href="https://blog.starbeam.one/2021/08/august-2021-status-update/">August 2021 Status Update</a></h2>
+		<h2><a href="https://blog.starbeam.one/2021/10/the-digital-license-is-a-relationship/">The  Digital License Is a Relationship</a></h2>
 	
 	<div class="meta">
 		
 			
 				
-					<span class="date">Aug 21, 2021</span>
+					<span class="date">Oct 22, 2021</span>
 				
 			
 
@@ -136,16 +136,16 @@
 			
 
 			
-				<span class="readingTime">3 min read</span>
+				<span class="readingTime">2 min read</span>
 			
 
 			
 				<div class="categories">
 					Categories: 
 					
-						<a href="https://blog.starbeam.one/categories/technology">technology</a>
+						<a href="https://blog.starbeam.one/categories/business">business</a>
 					
-						<a href="https://blog.starbeam.one/categories/etc">etc</a>
+						<a href="https://blog.starbeam.one/categories/technology">technology</a>
 					
 				</div>
 			
@@ -154,42 +154,25 @@
 	
 
     
-        <p>Well I am still kicking and coding here.  I wanted to take a breath here and check in with progress.  Not that there is much of any. 😅😭</p>
-<p>While I have been plugging some insane hours lately, I have recently been ambushed by the identity system.  It was basically like writing a whole new application.  What I have built, however, is pretty neat and I am happy with it.  Unfortunately, it has pushed my schedule out further, however, so I am trying to deal with the anxiety that goes along with it.</p>
-<p>Outside of that, I have been spending the past week or so upgrading to .NET6 and Visual Studio 2022, which has been impressively stable, alongside <a href="https://resharper-support.jetbrains.com/hc/en-us/articles/4404930135570">the new R# EAP</a>.  Trying out the new environment has been remarkable and refreshing.  Access to new memory makes things much more fast and responsive and I no longer fight with the IDE (or wait for frustrating amounts of time) for the simplest of code changes.</p>
-<p>While upgrading, I have also been taking time to upgrade parts of my framework that I am not exactly happy with, namely the EntityFramework portions.  Actually, I am very happy with what I have built, but unfortunately (to get technical) all of its components are designed to be scoped-per-user rather than as a singleton factory service.  That is, when a user creates a session with the application, it gets one <code>DbContext</code> to service them for that entire session.  This has its own set of problems, but the one I am focused on is memory utilization and state management.</p>
-<p>To further illustrate the issue, with each <code>DbContext</code> created, there is also all the other components that go along with it, namely the <code>IQueryable</code> instances and components that are needed to pull all the data throughout the system.  Again for every session the user creates, each and every one of those components also get instantiated and stored per session along with that <code>DbContext</code>, adding to the memory utilization.</p>
-<p>As such, switching to an <code>IDbContextFactory</code> pattern is recommended as there is one singleton factory and as many <code>DbContext</code>s can be made as per-unit-of-work and then disposed immediately.  This is a completely different way of doing business, however, and I am wrestling with the best way of moving forward with it,  currently.</p>
-<p>This is technical debt in the most basic of terms.  However, it&rsquo;s really the only one I want to pick at with my codebase, which, at roughly 5,500 files at present is not a bad thing.</p>
-<p>So that&rsquo;s a little of my world.  With all of the delays from upgrading and identity system, I&rsquo;ve had to remove the &ldquo;Feature X&rdquo; <a href="https://blog.starbeam.one/2021/07/july-2021-status-update/">mentioned last month</a>.  We&rsquo;ll see if I can make up ground but February still looks like a good spot now to have everything deployed, use, and documented.</p>
-<p>So currently it is:</p>
-<ul>
-<li><strong>August:</strong> Entity refactor</li>
-<li><strong>September:</strong> Identity system refactor</li>
-<li><strong>October:</strong> Administration application (for running things behind the scenes)</li>
-<li><strong>November:</strong> Deployments to Azure</li>
-<li><strong>December:</strong> Demonstration/videos/marketing</li>
-<li><strong>January:</strong> Attempt to squeeze in Feature X 🤞</li>
-<li><strong>February:</strong> MVP Primordial Alpha Announcement</li>
-</ul>
-<p>Let&rsquo;s see how it goes. 🤞</p>
+        <p>There is something I have been thinking about lately, and I wanted to be sure to capture it here.</p>
+<p>With the whole NFT mania (quite literally what it is), we get the feeling it is more about what people want and desire rather than what is actually there.  After all, an NFT in one blockchain isn&rsquo;t exactly unique if it also exists in another.  Let&rsquo;s also not forget that any blockchain at any time can be forked, leading to an instant doubling (or worse, if other forks occur) to any &ldquo;unique&rdquo; instance contained within it.</p>
+<p>But, getting back to what people desire vs. what is actually there.  I am not building an NFT platform, but a digital licensing platform.</p>
+<p>So, what is a digital license?</p>
+<p>What&rsquo;s interesting here is that if I am perfectly honest here, I myself am a bit swooped up in the same mania, so do I have a clear understanding of this?  I call it a digital license, but is it really?  I have been analyzing this &ldquo;thing&rdquo; for over two years now and while I feel I have a good grasp of it, I always question myself, my beliefs, and my understanding.</p>
+<p>To me, a digital license is a token of ownership.  Ownership may change, so there&rsquo;s a history of that, too.  The real value starts to emerge when a single party purchases a collection of licenses for a particular producer over time.</p>
+<p>You can see which license was purchased when and for how much.  You get a running total of the investment over time a particular fan poured into an artist.</p>
+<p>There is great appeal to this.</p>
+<p>A license also is a pointer, or a representation of an actual object or &ldquo;thing.&rdquo;  With that license, you can apply properties and additional features that denote a true uniqueness for a particular owner, that perhaps ascribes a particular and/or special meaning for them.</p>
+<p>In the end, that license represents a relationship between producer and consumer.  It not only represents but describes it over time.  This is especially so when a collection of licenses are purchased in aggregate over time.  The contours of the relationship are slowly defined and encased in time.</p>
+<p>That is my quick take on why everyone is so manic over this business.  Of course, the super interesting aspect is that this has all been around since the beginning of computer science, but no one has really bothered to capture it like it can be captured now. ✌</p>
 
     
 </div>
 
     
-<div class="footer">
+<div class="footer no-tags">
 
 
-    
-        <div class="tags">
-            <i class="fa fa-tags"></i>
-            <div class="links">
-                
-                    <a href="https://blog.starbeam.one/tags/status">status</a>
-                
-            </div>
-        </div>
     
 
     

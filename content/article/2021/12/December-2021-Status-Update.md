@@ -70,7 +70,7 @@ All told, this is what I currently have in mind:
 
 Note that there is a chance that the schedule might accelerate, based on all sorts of conditions, primarily that of the quality of code and how well it reacts once under test.
 
-And, of course, There is also a chance the schedule could slip.  I do not operate well under pressure. 🙃
+And, of course, There is also a chance the schedule could slip.  I am now officially on the clock and I do not operate well under pressure. 🙃
 
 But, we're getting closer here.  This is feeling more and more real every day and I am having to deal with the stress of such.  In a good way, I swear! 😅
 

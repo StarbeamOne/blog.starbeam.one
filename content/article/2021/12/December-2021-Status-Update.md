@@ -49,6 +49,8 @@ So, I have been looking at [BitPay](https://bitpay.com/online-payments) instead.
 
 So what is the solution?  It wasn't until yesterday that I thought of something: why not simply deploy the application in all its (potentially broken 😁) operational glory with the exception of "live" deposit and withdrawal functionality?  Deposit and withdrawal will still be "available" but they will be "no-op," meaning they really do not do anything consequential.
 
+I call it... *The Playground Alpha!*
+
 To clarify further, depositing will be possible via "faucet" where you can debit (fake/system-provided) money into your account, and the withdrawal will credit your account but will not actually send it anywhere.
 
 So, everything *appears* to be working and is fully functional as deployed, but no actual "real" money will be utilized.

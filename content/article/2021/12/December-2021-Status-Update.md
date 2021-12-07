@@ -25,17 +25,19 @@ This last leg has been *especially* brutal.  In addition to a few fundamental [r
 
 #### What's Next?
 
-What a great question.  Two days ago I had one answer for you ("Primordial Alpha"), but now that I have had some clear time to think, I have another one ("Playground Alpha").  Let's explore.
+What a great question.  I'm glad I had you ask me. 😄  Two days ago I had one answer for you ("Primordial Alpha"), but now that I have had some clear time to think some more, I have another one that I like better ("Playground Alpha").  
+
+Let's explore.
 
 #### Primordial Alpha + Its Challenges
 
 What is the Primordial Alpha?  Well, I've gone back and forth on exactly what this is.  Initially, I envisioned having a very well-secured application that is only accessible via Allowed List.  However, there are some "chicken-egg" challenges with doing so.
 
-First is how do creators onboard their potential customers?  We have to Allow List them as well, and that becomes challenging.  Either I have to create a mechanism that enables them to do so and/or they have to go through a process that may or may not be intuitive/rewarding/positive.
+First is how do creators onboard their potential customers?  We have to Allow List them as well, and that immediately becomes a challenge.  Either I have to create a mechanism that enables them to do so and/or they have to go through a process that may or may not be intuitive/rewarding/positive.
 
-We're wanting a good first impression here, or as close to one as possible.  Considering that the primary goal is to see what breaks -- which may be *everything -- I would rather reduce the amount of friction required to onboard users into the system for kicking its tires.
+We're wanting a good first impression here, or as close to one as possible.  Considering that the primary goal is to see what breaks -- which may be *everything* -- I would rather reduce the amount of friction required to onboard users into the system for kicking its tires.
 
-In addition to getting customers, there are other challenges.  First is legal and other parties that require access to the system for review.  It's easier to have something deployed and easily accessible when I send it to them.  Sure, again, I could have sign-in/security mechanisms but historically I have never had much luck with them and end up being more trouble than its worth.
+In addition to onboarding creators and their users, there are other challenges.  First is legal and other parties that require access to the system for review.  It's easier to have something deployed and easily accessible when I send it to them.  Sure, again, I could have sign-in/security mechanisms but historically I have never had much luck with them and end up being more trouble than its worth.
 
 Also, those sign-in/security mechanisms are an issue of their own.  Authentication into starbeam.one is handled [exclusively by Oauth2 providers](https://en.wikipedia.org/wiki/OAuth), courtesy of ASP.NET Core's built-in security providers and the [aspnet-contrib package](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers) (of which [I am a contributor](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers/commit/014ef58416b9f6dca6ec88a4b7f4e5936ebb2acf#diff-97022d3ec3825bb5f18eb629bf5a25e0baf9db076c3ba296f13839061e7096c0)! 🎉).  Each one of those goes through a review process, and the review team requires access to the application to verify it conforms to their individual established policies.  Giving access to these teams has been a challenging riddle to me for some time.  Again, doing a security wall is challenging and there always seems to be a problem.  So what's the best way of providing access while getting approval?
 

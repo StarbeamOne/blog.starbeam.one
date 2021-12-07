@@ -33,17 +33,15 @@ What is the Primordial Alpha?  Well, I've gone back and forth on exactly what th
 
 First is how do creators onboard their potential customers?  We have to Allow List them as well, and that becomes challenging.  Either I have to create a mechanism that enables them to do so and/or they have to go through a process that may or may not be intuitive/rewarding/positive.
 
-We're wanting a good first impression here, or as close to one as possible.  In such light, we're also wanting to see what breaks, which may be *everything*.
+We're wanting a good first impression here, or as close to one as possible.  Considering that the primary goal is to see what breaks -- which may be *everything -- I would rather reduce the amount of friction required to onboard users into the system for kicking its tires.
 
-Hopefully, we'll have everyone onboard that is long-term focused and sees the bigger picture despite the initial friction.
+In addition to getting customers, there are other challenges.  First is legal and other parties that require access to the system for review.  It's easier to have something deployed and easily accessible when I send it to them.  Sure, again, I could have sign-in/security mechanisms but historically I have never had much luck with them and end up being more trouble than its worth.
 
-In addition to getting customers, there are other challenges.  First is legal.  It's easier to have something deployed and easily accessible when I send it for legal review.  Sure, again, I could have sign-in/security mechanisms but historically I have never had much luck with them and end up being more trouble than its worth.
-
-Also, those sign-in/security mechanisms are an issue of their own.  Authentication into starbeam.one is handled exclusively by Oauth2 providers, courtesy of ASP.NET Core's built-in security providers and the [aspnet-contrib package](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers) (of which [I am a contributor](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers/commit/014ef58416b9f6dca6ec88a4b7f4e5936ebb2acf#diff-97022d3ec3825bb5f18eb629bf5a25e0baf9db076c3ba296f13839061e7096c0)! 🎉).  Each one of those goes through a review process, and the review team requires access to the application to verify it conforms to their individual established policies.  Giving access to these teams has been a challenging riddle to me for some time.  Again, doing a security wall is challenging and there always seems to be a problem.  So what's the best way of providing access while getting approval?
+Also, those sign-in/security mechanisms are an issue of their own.  Authentication into starbeam.one is handled [exclusively by Oauth2 providers](https://en.wikipedia.org/wiki/OAuth), courtesy of ASP.NET Core's built-in security providers and the [aspnet-contrib package](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers) (of which [I am a contributor](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers/commit/014ef58416b9f6dca6ec88a4b7f4e5936ebb2acf#diff-97022d3ec3825bb5f18eb629bf5a25e0baf9db076c3ba296f13839061e7096c0)! 🎉).  Each one of those goes through a review process, and the review team requires access to the application to verify it conforms to their individual established policies.  Giving access to these teams has been a challenging riddle to me for some time.  Again, doing a security wall is challenging and there always seems to be a problem.  So what's the best way of providing access while getting approval?
 
 Finally, there is the issue of onramp and exit ramps with fiat currency.  I am using PayPal for both, and Coinbase for onramping.  There is currently no viable exit ramp for Coinbase.  Well there is, [but it simply does not work, and I am very irritated with that](https://github.com/coinbase/coinbase-ios-sdk/issues/54).  Let's just say that Coinbase appears to have very little to no support for their development offerings, and I struggle to see why they have such a high valuation.
 
-So, I have been looking at [BitPay](https://bitpay.com/online-payments) instead.  They offer a promising solution, but it has revenue requirements.  Again, I would like to show them the working product and show them what I have in mind and see what is possible.
+So, I have been looking at [BitPay](https://bitpay.com/online-payments) instead.  They offer a promising solution, but it has revenue requirements.  Again, I would like to show them the working product and demonstrate what I have in mind and see what is possible.
 
 #### The Solution: The Playground Alpha
 
@@ -57,7 +55,7 @@ So, everything *appears* to be working and is fully functional as deployed, but 
 
 This way, the application can be viewed by all and I can start collecting all the valuable feedback immediately -- including and especially what breaks.  I can also start pointing dependent parties towards the location and having reviews done to further proceed with chicken-egg scenarios.
 
-Boom.  I then anticipate a 2-3 month period where I tackle obvious problems while implementing BitPay/other on/off-ramps and get this to a deployable alpha where it can be used for real in a "live money" setting.
+Boom.  I then anticipate a 2-3 month period where I tackle obvious problems while implementing BitPay/other on/off-ramps and get this to a deployable alpha where it can be used for real in a "live money" setting, all the while building some sort of confidence in the system.
 
 #### Schedule
 
@@ -70,7 +68,7 @@ All told, this is what I currently have in mind:
 
 Note that there is a chance that the schedule might accelerate, based on all sorts of conditions, primarily that of the quality of code and how well it reacts once under test.
 
-And, of course, There is also a chance the schedule could slip.  I am now officially on the clock and I do not operate well under pressure. 🙃
+And, of course, There is also a chance the schedule could slip.  In addition to things Breaking Badly™,  I am now officially on the clock and I do not operate well under pressure. 🙃
 
 But, we're getting closer here.  This is feeling more and more real every day and I am having to deal with the stress of such.  In a good way, I swear! 😅
 

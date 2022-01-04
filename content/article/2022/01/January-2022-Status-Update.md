@@ -9,7 +9,7 @@ featuredImage: ''
 draft: false
 ---
 
-Well well... Happy New Year out there and hope everyone is doing well as they read this, considering the current circumstances and environment we find ourselves in this otherwise glamorous new year.
+Well well... Happy New Year out there and hope everyone is doing well as they read this, considering the current circumstances and environment we find ourselves in this otherwise promising new year.
 
 Let's get on with the latest update here.
 
@@ -17,13 +17,13 @@ Let's get on with the latest update here.
 
 To start, I am pleased to announce that the alpha playground is feature complete and ready for deployment.
 
-What that means is that the Playground Alpha, slated for availability next month, will allow you to use all the features of starbeam.one with the use of fake deposits and withdrawals.
+What that means is that the Playground Alpha, slated for availability next month, will allow you to use all the features of starbeam.one via fake deposits and withdrawals.
 
-The idea being to see how many accounts we can create with sales, resales, and every other transactions made via those fake deposits and withdrawals, all the while seeing what breaks.  Yes, I am anticipating quite a lot of breaking.  This application has, after all, been tested by me and me alone so quality assurance is very little assurance, or the assurance only afforded by one person testing it.
+The idea here is that we want to see how many accounts we can create, along with sales, resales, and every other transactions made via those fake deposits and withdrawals.  All of this is done while seeing what breaks.  Yes, I am anticipating quite a lot of breaking.  This application has, after all, been tested by me and me alone, so quality assurance is very little assurance, or the assurance only afforded by one person testing it.
 
 #### Remaining Tasks
 
-What tasks remain?  Very simply, there are three stories that remain to achieve elusive "Done" status:
+What tasks remain?  Very simply, there are three stories that remain to achieve the elusive "Done" status:
 
 1. Deployment to Azure - get this bad boy to availability
 2. Marketing Videos - introduce you to me and the product
@@ -31,11 +31,11 @@ What tasks remain?  Very simply, there are three stories that remain to achieve 
 
 Deployment is estimated for two weeks currently, but it has the most risk as I am very unfamiliar with Azure and who knows what can happen.
 
-The same goes for those videos.  I have had my eye on those for a while and I am honestly terrified with getting them done.  I have to present myself to the world EEP!  That means flipping my introvert into extravert and while I can do it, it takes a bit of adjustment (talking and acknowledging that here is a good first step).
+The same goes for those videos.  I have had my eye on those for a while now and I am honestly terrified with getting them done.  I have to present myself to the world EEP!  That means flipping my introvert into extravert.  While I can do it, it takes a bit of adjustment (talking and acknowledging that here is a good first step).
 
-I have three weeks setup for those videos.  That will take us into next month and if everything goes well the next status update.
+I have three weeks scheduled for those videos.  That will take us into next month and if everything goes well, the next status update.
 
-Then it's that administration application.  That has another 2-3 weeks to it.  However, this is not as important as the previous two tasks and I can work on this after the initial announcement.
+Then it's that administration application.  That has another 2-3 weeks to it.  However, this is not as important as the previous two tasks and I can work on this after the official announcement.
 
 #### When Will This Happen?!
 

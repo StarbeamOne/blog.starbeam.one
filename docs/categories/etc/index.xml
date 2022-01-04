@@ -5,7 +5,19 @@
     <link>https://blog.starbeam.one/categories/etc/</link>
     <description>Recent content in etc on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 08 Oct 2021 03:50:07 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/etc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jan 2022 05:35:23 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/etc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>January 2022 Status Update</title>
+      <link>https://blog.starbeam.one/2022/01/january-2022-status-update/</link>
+      <pubDate>Mon, 03 Jan 2022 05:35:23 -0500</pubDate>
+      
+      <guid>https://blog.starbeam.one/2022/01/january-2022-status-update/</guid>
+      <description>Well well&amp;hellip; Happy New Year out there and hope everyone is doing well as they read this, considering the current circumstances and environment we find ourselves in this otherwise glamorous new year.
+Let&amp;rsquo;s get on with the latest update here.
+Alpha Playground Feature Complete To start, I am pleased to announce that the alpha playground is feature complete and ready for deployment.
+What that means is that the Playground Alpha, slated for availability next month, will allow you to use all the features of starbeam.</description>
+    </item>
+    
     <item>
       <title>October 2021 Status Update</title>
       <link>https://blog.starbeam.one/2021/10/october-2021-status-update/</link>

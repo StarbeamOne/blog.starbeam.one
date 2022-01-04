@@ -13,9 +13,9 @@ Well well... Happy New Year out there and hope everyone is doing well as they re
 
 Let's get on with the latest update here.
 
-#### Alpha Playground Feature Complete
+#### Playground Alpha Feature Complete
 
-To start, I am pleased to announce that the alpha playground is feature complete and ready for deployment.
+To start, I am pleased to announce that the playground alpha is feature complete and ready for deployment.
 
 What that means is that the Playground Alpha, slated for availability next month, will allow you to use all the features of starbeam.one via fake deposits and withdrawals.
 

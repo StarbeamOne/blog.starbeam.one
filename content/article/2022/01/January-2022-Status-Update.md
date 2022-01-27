@@ -11,7 +11,7 @@ draft: false
 
 Well well... Happy New Year out there and hope everyone is doing well as they read this, considering the current circumstances and environment we find ourselves in this otherwise promising new year.
 
-Let's get on with the latest update here.
+Let's get on with the latest update here...
 
 #### Playground Alpha Feature Complete
 

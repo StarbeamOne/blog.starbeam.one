@@ -5,7 +5,18 @@
     <link>https://blog.starbeam.one/authors/mike-e-angelo/</link>
     <description>Recent content in Mike-E-angelo on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Jan 2022 05:35:23 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/authors/mike-e-angelo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 13:40:16 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/authors/mike-e-angelo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>February 2022 Status Update</title>
+      <link>https://blog.starbeam.one/2022/01/february-2022-status-update/</link>
+      <pubDate>Sat, 29 Jan 2022 13:40:16 -0500</pubDate>
+      
+      <guid>https://blog.starbeam.one/2022/01/february-2022-status-update/</guid>
+      <description>Welcome to the next installment of monthly starbeam.one updates.
+Playground Alpha Deployed to Azure In the last status update, I mentioned that my focus for this month was getting the Playground Alpha deployed to Azure. I am pleased to announce that this was accomplished after much configuration and trial+error (and much more error!).
+The Playground Alpha is deployed and available for use, and will be made officially available later this month.</description>
+    </item>
+    
     <item>
       <title>January 2022 Status Update</title>
       <link>https://blog.starbeam.one/2022/01/january-2022-status-update/</link>

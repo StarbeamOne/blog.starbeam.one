@@ -47,7 +47,7 @@ Finally, I put in an application for the new [Microsoft for Startups Founders Hu
 
 With all of that out of the way, it is now time for the main event: recording my pretty face for the world to see.  This is two years worth of research and development for me, and I want to get my findings captured in these videos.  These videos are to be short and sweet, targeting about 3-4 minutes a piece and in a suite of around a dozen of them.
 
-I have two sets of videos in mind: one that outlines the publishing "system" that I have created (based on [Kevin Kelly's 1,000 True Fans essay](https://kk.org/thetechnium/1000-true-fans/)), and then an actual tour of the product where I record myself using the different parts of the application.
+I have two sets of videos in mind: one that outlines the publishing "system" that I have created (based on [Kevin Kelly's 1,000 True Fans essay](https://kk.org/thetechnium/1000-true-fans/)), and then an actual tour of the product where I record myself using the different parts of the application and demonstrating its [MVP features](https://en.wikipedia.org/wiki/Minimum_viable_product).
 
 ### Schedule
 

@@ -29,15 +29,15 @@ In addition to learning Azure and all of its challenges, I also integrated [Azur
 
 ### Secured to Azure
 
-But that's not all. :)  After getting both deployments and developer operations in place, I learned that the default configuration for Azure is that every endpoint in an application is "publicly available."  This is convenient for getting code deployed and quickly accessible, but is a security concern as it basically means every major endpoint of the system can be accessed (and possibly intruded) by any actor who wishes to do so.  This is a bit unacceptable for my tastes, so I took most of this past week to fix it, learning how to setup a private virtual network in Azure and get all the pieces talking to one another in this new configuration.
+But that's not all. :)  After getting both deployments and developer operations in place, I learned that the default configuration for Azure is that every endpoint in an application is "publicly available."  This is convenient for getting code deployed and quickly accessible, but is a security concern as it basically means every major endpoint of the system can be accessed (and possibly intruded) by any actor who wishes to do so.  This is a bit unacceptable for my tastes, so I took most of this past week to address that, learning how to setup a private virtual network in Azure and get all the pieces talking to one another in this new configuration.
 
 While this new configuration is more secure (in *theory* 😅) it also turns out to be more expensive.  This totally irks me, but is nonetheless the way things are done with the cloud and will have to accept it for now, hoping to generate enough revenue to pay for the hosting costs (and more as I discuss next).
 
 ### Gust Compliance
 
-From Azure, I swung back around to my [Gust account](https://.gust.com/) and started to take care of some compliance issues, now that I have a deployed MVP and am a few months from starting to actually generate revenue.  
+From Azure, I swung back around to my [Gust account](https://gust.com/) and started to take care of some compliance issues, now that I have a deployed MVP and am a few months from starting to actually generate revenue.  
 
-All I can say is, starting a business is expensive!  You have franchise fees, bookkeeping, taxes, and more.  This is definitely a different mode for me as my burn rate for the past several years of operation has been $5k/year (a business acquaintance affectionately calls me "Tiny Developer" per "[Tiny House](https://www.hgtv.com/shows/tiny-house-big-living)" reference).  We are already looking at that amount with the compliance alone, yikes.
+All I can say is, starting a business is expensive!  You have franchise fees, bookkeeping, taxes, and more.  This is definitely a different mode for me as my burn rate for the past several years of operation has been around $5k/year (a business acquaintance affectionately calls me "Tiny Developer" per "[Tiny House](https://www.hgtv.com/shows/tiny-house-big-living)" reference).  We are already looking at that amount with the compliance alone, yikes.
 
 ### Founders Hub
 
@@ -47,7 +47,7 @@ Finally, I put in an application for the new [Microsoft for Startups Founders Hu
 
 With all of that out of the way, it is now time for the main event: recording my pretty face for the world to see.  This is two years worth of research and development for me, and I want to get my findings captured in these videos.  These videos are to be short and sweet, targeting about 3-4 minutes a piece and in a suite of around a dozen of them.
 
-I have two sets of videos in mind: one that outlines the publishing "system" that I have created, based on [Kevin Kelly's 1,000 True Fans essay](https://kk.org/thetechnium/1000-true-fans/), and then an actual tour of the product where I record myself using the different parts of the application.
+I have two sets of videos in mind: one that outlines the publishing "system" that I have created (based on [Kevin Kelly's 1,000 True Fans essay](https://kk.org/thetechnium/1000-true-fans/)), and then an actual tour of the product where I record myself using the different parts of the application.
 
 ### Schedule
 

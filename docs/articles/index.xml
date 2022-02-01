@@ -13,8 +13,8 @@
       
       <guid>https://blog.starbeam.one/2022/01/february-2022-status-update/</guid>
       <description>Welcome to the next installment of monthly starbeam.one updates.
-Playground Alpha Deployed to Azure In the last status update, I mentioned that my focus for this month was getting the Playground Alpha deployed to Azure. I am pleased to announce that this was accomplished after much configuration and trial+error (and much more error!).
-The Playground Alpha is deployed and available for use, and will be made officially available later this month.</description>
+Playground Alpha Deployed to Azure In the last status update, I mentioned that my focus for January was getting the Playground Alpha deployed to Azure. I am pleased to announce that this was accomplished after much configuration and trial+error (and much more error!).
+The Playground Alpha is deployed to Azure, and I have been totally blown away by how relatively easy it was to do so, despite all the challenges and errors.</description>
     </item>
     
     <item>

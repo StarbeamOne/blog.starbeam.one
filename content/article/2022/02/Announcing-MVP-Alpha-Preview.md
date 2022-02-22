@@ -29,23 +29,23 @@ You can get more information in [our about section here](https://alpha.starbeam.
 
 Yep, as a matter of fact, I sure do.
 
-I have spent the past three weeks attempting to collect my thoughts since having started this project and get it all into a video/blogging format.  I estimated 3-4 days for this task, and I just finished this morning. 😅
+I have spent the past three weeks attempting to collect my thoughts into a video/blogging format.  I originally estimated 3-4 days for this task, and I just finished this morning. 😅
 
-To start, you can find the Introduction Videos here (these are more conceptual, going into my mindset on how I view this space -- and get to meet/know me as well!):
+To start, you can find the Introduction Sessions here (these are more conceptual, going into my mindset on how I view this space -- and get to meet/know me as well!):
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLMq1y8QwgsyoQUspInuhBXiHoXrcKDacb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Note that all QR codes are listed in the comments of these videos on YouTube in the case that you cannot scan them.
 
-Next, we have the product tour, or a very minimal version of it, getting enough of the features here just to get by and start out using the system (hopefully):
+Next, we have the Product Tour, or a very minimal version of it, getting enough of the features here just to get by and start out using the system (hopefully):
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLMq1y8QwgsyqvOMAv0AeTebJmCWAlXckL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I hope you enjoy these videos.  I have learned *a lot* about the process in the past few weeks, as you can imagine!
+I hope you enjoy these videos.  I have learned *a lot* about the process of filming and post-production in the past few weeks, as you can imagine!
 
 So a little retrospective here: I feel it took about two weeks to find my "voice" in front of the camera.  I still have footage in the  Introduction Sessions where it looks like I am being held at gunpoint. 😅  I am OK with it, though.  The Product Tour was loose and free, by necessity, however -- I was *really* out of time!  But I definitely prefer that style over the stuffiness that peppers throughout the Introduction Sessions.  
 
-In the end, I am happy with both, but actually prefer the Product Tour as it is way clearer what I am presenting and you can see the features before your eyes.  The Introduction Sessions are still valuable for context, however, as I reference them repeatedly during the Product Tour, so value all around I feel.
+In the end, I am happy with both, but actually prefer the Product Tour as it is way clearer what I am presenting and you can see the features clearly before your eyes.  The Introduction Sessions are still valuable for context, however, as I reference them repeatedly during the Product Tour, so value all around I feel.
 
 ### What's Next?!
 
@@ -57,6 +57,8 @@ This is an exciting time and again the culmination of the efforts for over two y
 
 ### Thank You!
 
-That stated, I am signing off for now.  Thank you so very very much to everyone that has supported me during this time ([you know who you are](https://alpha.starbeam.one/about/acknowledgements)!).  Your support and encouragement is so very much appreciated!
+Alright!  That completes the announcement.  Please do check out the videos as pretty much everything I have wanted to say for the past two years are found in there.
+
+As I end here, a very big thank you goes out to everyone that has supported me during this time ([you know who you are](https://alpha.starbeam.one/about/acknowledgements)!).  Your support and encouragement is so very much appreciated!
 
 Until next time, stay bright. ✌✨

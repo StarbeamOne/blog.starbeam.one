@@ -21,7 +21,7 @@ WOW... today is the day, and I am beside myself to finally be here and make this
 
 [You can visit it here!](https://alpha.starbeam.one)
 
-### Do You Have Any Further Information/F.AQ.?
+### Do You Have Any Further Information/FAQ?
 
 You can get more information in [our about section here](https://alpha.starbeam.one/about).
 

@@ -43,6 +43,10 @@ Next, we have the product tour, or a very minimal version of it, getting enough 
 
 I hope you enjoy these videos.  I have learned *a lot* about the process in the past few weeks, as you can imagine!
 
+So a little retrospective here: I feel it took about two weeks to find my "voice" in front of the camera.  I still have footage in the  Introduction Sessions where it looks like I am being held at gunpoint. 😅  I am OK with it, though.  The Product Tour was loose and free, by necessity, however -- I was *really* out of time!  But I definitely prefer that style over the stuffiness that peppers throughout the Introduction Sessions.  
+
+In the end, I am happy with both, but actually prefer the Product Tour as it is way clearer what I am presenting and you can see the features before your eyes.  The Introduction Sessions are still valuable for context, however, as I reference them repeatedly during the Product Tour, so value all around I feel.
+
 ### What's Next?!
 
 Probably some rest. :)  I have been pushing myself pretty hard these past few weeks and these past few days especially, so I will be not so gung-ho these next few days while continuing next steps.

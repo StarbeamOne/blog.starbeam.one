@@ -2,7 +2,7 @@ main:
 - name: starbeam.one
   weight: 1
   identifier: main
-  url: 'https://starbeam.one/'
+  url: 'https://alpha.starbeam.one/'
 - name: Articles
   weight: 2
   identifier: articles

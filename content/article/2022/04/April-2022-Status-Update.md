@@ -35,9 +35,7 @@ As I mentioned earlier, I could have waited a bit longer to make an announcement
 
 The bottom (timeless) line here is that artists want to get paid, and patrons want to pay artists.  If you do that, then it doesn't matter how you've done it: you've won.  Everything else is just noise. 
 
-In fact, mentioning the blockchain is becoming a bit of a distraction and might pull in unwanted ("get rich quick") elements.  So, going forward, you might see me reduce any mention of this altogether.
-
-After all, one of the major objectives of my efforts here was to prove that you can do this without a blockchain.  If that is truly indeed the case, then why mention it at all anyways?  It's like mentioning a Ferrari or a chicken.  Both concepts are not necessary to enable the scenario here so why mention them?  Food for thought.
+In fact, mentioning the blockchain might become a bit of a distraction/liability by pulling in unwanted ("get rich quick") elements.  So, going forward, you might see me reduce any mention of this altogether.
 
 ### Front Page Adjustments
 
@@ -55,9 +53,9 @@ What's valuable about videos is that in addition to content, you can use them fo
 
 #### New Creation Workflow
 
-Part of the friction that I am experiencing here is that all of this code is the first of the first code that I wrote two years ago.  So it's dated and could stand to improve.  It's not just the code but the processes as well.  Everything basically captures process requirements but is difficult to understand unless you are familiar with it.
+Part of the friction that I am experiencing here is that all of this code is the first of the first code that I wrote two years ago.  So it's dated and could stand to improve.  It's not just the code but the processes as well.  Everything basically captures process and business requirements but is difficult to understand unless you are familiar with it and understand the backing conceptual model.
 
-Additionally, it's difficult to use.  There are a lot of steps involved to issue new licenses and it could be made simpler.  This is what I will be working on for the remainder of the month.  Once that is done, I will be making a new push to start getting users to test out the process further and get to the next phase here.
+However, it's difficult to use.  There are a lot of steps involved to issue new licenses and it could be made simpler.  This is what I will be working on for the remainder of the month.  Once that is done, I will be making a new push to start getting users to test out the process further and get to the next phase here.
 
 Whatever that is. 😁
 

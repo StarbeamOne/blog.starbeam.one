@@ -40,6 +40,6 @@ You can view this here:
 
 #### Thank You for Your Continuing Support
 
-A shout out to all those who continue to support me with likes, subscribes, and words of encouragement.  They really do mean the world to me.  This means you, Jason C., Jason L., Justin L., Sarah B., Kendall K., and my nuclear family.  It's a very formative time for me right now so any support right now no matter how small is greatly cherished and appreciated.
+A shout out to all those who continue to support me with likes, subscribes, and words of encouragement.  They really do mean the world to me.  This means you, Jason C., Jason L., Justin L., Sarah B., Mike W., Kendall K., and my nuclear family.  It's a very formative time for me right now so any support right now no matter how small is greatly cherished and appreciated.
 
 Until next time, stay bright. ✌✨

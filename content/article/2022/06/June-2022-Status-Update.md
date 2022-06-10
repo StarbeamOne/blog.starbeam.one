@@ -15,7 +15,7 @@ Today, I am pleased to announce the Friends & Family Alpha available for use at 
 
 ### What is It?
 
-The friends and family alpha is pretty much the same product and release as the alpha preview released back in February but with the addition of commerce providers, which allows real "live" money.  We now feature the following commerce providers for purchasing Flares, starbeam.one's virtual currency:
+The friends and family alpha is pretty much the same product and release as the alpha preview released back in February but with the addition of commerce providers, which allows real "live" money for use within the system.  We now feature the following commerce providers for purchasing Flares, starbeam.one's virtual currency:
 
 - Stripe
 - PayPal/Venmo

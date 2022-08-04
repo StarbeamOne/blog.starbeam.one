@@ -15,7 +15,7 @@ Welcome!  It's the first Tuesday of every month, and that means the latest starb
 
 Astute readers will realize that I am posting this on a Thursday, and not a Tuesday.  While I was able to record the latest Stand-up & Shine (and Shill) on Tuesday, [I was not able to post it until this morning](https://youtu.be/aJ0wyH5B2Nk).  There were a few issues with post-video production that took quite a bit of time and retakes.  Turns out video processing is very intensive when you apply certain filters to it, and there were a lot of retakes involved in making sure the sensitive information I was providing during the demonstrations were adequately scrubbed.
 
-This is what I get for running live demonstrations in the production environment!
+This is what I get for running live demonstrations in the production environment!  With real live sensitive data, at that.
 
 Past that, there were also a few issues/bugs unveiled during recording the demonstrations.  I took some time to get these addressed, deployed, and ready for the world to see.
 

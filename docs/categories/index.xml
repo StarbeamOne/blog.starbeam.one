@@ -5,13 +5,31 @@
     <link>https://blog.starbeam.one/categories/</link>
     <description>Recent content in Categories on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Jul 2022 06:28:55 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 07:42:32 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>business</title>
       <link>https://blog.starbeam.one/categories/business/</link>
-      <pubDate>Tue, 05 Jul 2022 06:28:55 -0400</pubDate>
+      <pubDate>Thu, 04 Aug 2022 07:42:32 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://blog.starbeam.one/categories/life/</link>
+      <pubDate>Thu, 04 Aug 2022 07:42:32 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://blog.starbeam.one/categories/technology/</link>
+      <pubDate>Thu, 04 Aug 2022 07:42:32 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/categories/technology/</guid>
       <description></description>
     </item>
     
@@ -25,29 +43,11 @@
     </item>
     
     <item>
-      <title>life</title>
-      <link>https://blog.starbeam.one/categories/life/</link>
-      <pubDate>Tue, 05 Jul 2022 06:28:55 -0400</pubDate>
-      
-      <guid>https://blog.starbeam.one/categories/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>art</title>
       <link>https://blog.starbeam.one/categories/art/</link>
       <pubDate>Tue, 07 Jun 2022 15:21:51 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>https://blog.starbeam.one/categories/technology/</link>
-      <pubDate>Tue, 07 Jun 2022 15:21:51 -0400</pubDate>
-      
-      <guid>https://blog.starbeam.one/categories/technology/</guid>
       <description></description>
     </item>
     

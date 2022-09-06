@@ -5,7 +5,17 @@
     <link>https://blog.starbeam.one/categories/technology/</link>
     <description>Recent content in technology on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Aug 2022 07:42:32 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 14:43:39 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>September 2022 Status Update</title>
+      <link>https://blog.starbeam.one/2022/09/september-2022-status-update/</link>
+      <pubDate>Tue, 06 Sep 2022 14:43:39 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/2022/09/september-2022-status-update/</guid>
+      <description>It&amp;rsquo;s the first Tuesday of every month, meaning your latest starbeam.one status update is here. Let&amp;rsquo;s begin!
+Finishing Tasks The past few weeks have been really focused on the Administration Application, which can be viewed as a CMS application around the entire starbeam.one system. I wanted a way to quickly jump through all the different entities of the system and I am pleased to say that I finally have a first version that I am happy with using.</description>
+    </item>
+    
     <item>
       <title>August 2022 Status Update</title>
       <link>https://blog.starbeam.one/2022/08/august-2022-status-update/</link>

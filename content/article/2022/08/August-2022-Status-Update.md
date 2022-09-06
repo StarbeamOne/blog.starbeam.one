@@ -23,9 +23,9 @@ With that, let's move into the good stuff.
 
 ### Announcing the Friends & Family  Alpha... Twitter Edition™
 
-Back in June [I announced the Friends & Family alpha](https://blog.starbeam.one/2022/06/june-2022-status-update/), and then immediately spent the next two weeks fixing bugs discovered during said announcement and subsequent recording.  It was a bit of a bummer, and I never got to announce it on Twitter, where I feel you have to really have your [ducks in a row](https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&lettr=indx_catlog_i&page=9vF-dOfBT0jI.html#:~:text=To%20get%20your%20ducks%20in,the%20origin%20of%20this%20expression.) when you put something "out there."
+Back in June [I announced the Friends & Family alpha](https://blog.starbeam.one/2022/06/june-2022-status-update/), and then immediately spent the next two weeks fixing bugs discovered during said announcement and its subsequent recording.  It was a bit of a bummer, and I never got to announce it on Twitter, where I feel you have to really have your [ducks in a row](https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&lettr=indx_catlog_i&page=9vF-dOfBT0jI.html#:~:text=To%20get%20your%20ducks%20in,the%20origin%20of%20this%20expression.) when you put something "out there."
 
-There was also the slight detail that I was accepting monetary value without an efficient way of viewing and managing it if necessary.  Yes, I can see everything using Sql Server, but that is a bit informal (and error-prone) for my tastes.  
+There was also the slight detail that I was accepting monetary value without an efficient way of viewing and managing it, if necessary.  Yes, I can see everything using Sql Server, but that is a bit informal (and error-prone) for my tastes.  
 
 I needed to flesh out my already half-developed Administration Application to get it to a place where I could feel a little more comfortable accepting (and managing) funds.  What if someone asked for a refund?  I didn't even have a policy in place, let alone the ability to quickly provide one.
 

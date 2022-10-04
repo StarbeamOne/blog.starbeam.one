@@ -85,7 +85,7 @@ There is some friction with logging in at the moment, mostly with accidentally c
 
 Finally, I would like to get subscriptions in place.  These are not your traditional subscriptions.  They are more like allotments, but they have subscription qualities.  Essentially, you allot a certain amount of Flares per month to a creator, and if they meet some of all of it, then it goes to them, and if not, it rolls over to the next month.  It's a way of consistently supporting a creator without having to visit the web site each time a publishing is made.
 
-## Stand-Up and Shill
+## Stand-Up & Shine (& Shill)
 
 WOW this has been an update!  So much activity in the past month and things are only getting started it feels.  With the monthly update I have also recorded the latest Standup and Shine (and Shill) so you can see that here:
 

@@ -6,7 +6,7 @@ tags: [status]
 author: Mike-E-angelo
 authors: [Mike-E-angelo]
 featuredImage: ''
-draft: true
+draft: false
 ---
 
 Welcome to the *second* Tuesday of the month, which means we're way overdue for a monthly status update!

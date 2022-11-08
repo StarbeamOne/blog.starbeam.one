@@ -13,9 +13,9 @@ Welcome to the *second* Tuesday of the month, which means we're way overdue for 
 
 ### A Week Off
 
-It is indeed the second Tuesday of the month.  I usually aim for the first Tuesday, but I have recently been running into troubles with my recording software and they have been thankfully resolved.  So today we are back on track, recording today and in two weeks from now.  Thankfully November is a 5-week month and I was able to slide up the 3 week interval to the front of the month.
+It is indeed the second Tuesday of the month.  I usually aim for the first Tuesday, but I have recently been running into troubles with my recording software [and they have been thankfully resolved](https://twitter.com/StarbeamOne/status/1588566148349501440).  So today we are back on track, recording today and again in two weeks from now on the 22nd.  Thankfully November is a 5-week month and I was able to slide up the 3 week interval to the front of the month.
 
-From here on it should be back to business as usual. 🙏🤞
+From here on, it should be back to business as usual. 🙏🤞
 
 ### Alpha II Is Underway
 
@@ -23,13 +23,13 @@ I've really been spending a lot of time implementing features of the publishing 
 
 https://github.com/StarbeamOne/home/issues/2
 
-This morning I deployed the storefront cover adjustment which allows artists to update the storefront cover after deployment.  This seems like a "duh" in hindsight but as I created the system 3 years ago it was all meant to be immutable like the blockchain (and actual real-life publishing at that).  That is, if you published a record album/CD cover and it had a mistake in it, well that mistake gets sent out (or you have to redo it).
+This morning, I deployed the storefront cover adjustment which allows artists to update the storefront cover after deployment.  This seems like a "duh" in hindsight but as I created the system 3 years ago it was all meant to be immutable like the blockchain (and actual real-life publishing at that).  That is, if you published a record album/CD cover and it had a mistake in it, well that mistake gets sent out (or you have to redo it).
 
-Since then I have cooled on this idea and it's back to your typical web application where if you made a mistake or want to change something, you can do this.  Hence, this feature (and general direction).
+Since then, I have cooled on this idea and it's back to your typical web application where if you made a mistake or want to change something, you can do this.  Hence, this feature (and general direction).
 
 ### Up Next: More Artist Features + Improvements
 
-There are two outstanding tasks from this story.  Issuance recalls and purchase recognitions
+There are two outstanding tasks from this story: issuance recalls and purchase recognitions.
 
 1. **Recall issuances**: In the case of new artists especially, we want to provide a way of being able to recall (destroy) and issuance, allow the artist to modify/correct it, and then re-issue.
 2. **Purchase Recognition**.  This is the final task but it's also a bigger one as it introduces a CRM (customer relationship management) into the system.  Basically, when a purchase is made, [we want to provide the artist with the opportunity to thank the purchaser](https://github.com/StarbeamOne/home/issues/6).  Since I have access to all the information at present, I have been personally thanking each and every purchase that has occurred on the system (and will continue to do so until this feature is complete! 😁).  However, once this feature is done, artists will be passed on the baton to thank purchasers directly.

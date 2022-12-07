@@ -11,11 +11,15 @@ draft: false
 
 **[Season's greetings!](https://alpha.starbeam.one/market/products/0444ed0b-1bc6-4cdc-d451-08dad783d1c0)** 
 
-Woohoo, the first week of the month, and that means a status update for starbeam.one! ✨🚀
+Woohoo, the first week of the month, and that means a status update for [starbeam.one](https://alpha.starbeam.one/)! ✨🚀
 
 ## 500 Sales!  Nearly 150 Flares ($150) in Volume!
 
-We continue our completely organic non-advertising push here to build our market.  As expected, this is a slow process but one that helps build confidence in the system [at a slow and steady pace](https://read.gov/aesop/025.html).  As this is my first rodeo into the modern market I am OK with taking my time before bringing on new users through financial spending.  The users we are drawing in now have been fantastic and true quality members.  I am beyond humbled to have them a part of this endeavor.  If I could somehow continue doing this without spending any money on marketing I would.  Who knows, maybe something will work out and our luck will continue? 🤔🤞
+We continue our completely organic non-advertising push here to build our market.  As expected, this is a slow process but one that helps build confidence in the system [at a slow and steady pace](https://read.gov/aesop/025.html).  
+
+As this is my first rodeo into the modern market I am OK with taking my time before bringing on new users through financial spending.  The users we are drawing in now have been fantastic and true quality members.  I am beyond humbled to have them a part of this endeavor.  If I could somehow continue doing this without spending any money on marketing I would.  Who knows, maybe something will work out and our luck will continue? 🤔🤞
+
+Nonetheless even with our current pace we have already achieved over 500 sales and have generated 150 Flares ($150) of all time volume for our artists!  And we are only beginning here.  If you'd like to keep up to date with the latest statistics [you can see them at any time on our public dashboard](https://alpha.starbeam.one/dashboard) (you don't even need to be signed in!).
 
 ## What's New?
 

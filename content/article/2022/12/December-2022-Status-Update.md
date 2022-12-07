@@ -19,11 +19,11 @@ We continue our completely organic non-advertising push here to build our market
 
 As this is my first rodeo into the modern market I am OK with taking my time before bringing on new users through financial spending.  The users we are drawing in now have been fantastic and true quality members.  I am beyond humbled to have them a part of this endeavor.  If I could somehow continue doing this without spending any money on marketing I would.  Who knows, maybe something will work out and our luck will continue? 🤔🤞
 
-Nonetheless even with our current pace we have already achieved over 500 sales and have generated 150 Flares ($150) of all time volume for our artists!  And we are only beginning here.  If you'd like to keep up to date with the latest statistics [you can see them at any time on our public dashboard](https://alpha.starbeam.one/dashboard) (you don't even need to be signed in!).
+Nonetheless even with our current pace we have already achieved over 500 sales and have generated 150 Flares ($150) of all time volume for our artists!  And we are only beginning here.  If you'd like to keep up to date with the latest statistics you can see them at any time on our public dashboard (you don't even need to be signed in!).
 
 ## What's New?
 
-I have been spending a lot of time getting artists the features they need to have have a better sales experience.  We can now thank our purchasers for each of their purchases or in bulk if they accrue over time.  Artists can see who has purchased what from them, potentially establishing a VIP-type system in the future for those that purchase the most from them once we put that in place.  As such, we have a mini-CRM (customer relationship management) system that is in place for our artists.  Now that this is completed, we will be working toward the next step which is premium products (next).
+I have been spending a lot of time getting artists the features they need to have have a better sales experience.  We can now thank our purchasers for each of their purchases or in bulk if they accrue over time.  Artists can see who has purchased what from them, potentially establishing a VIP-type system in the future for those that purchase the most from them if/once we put that in place.  As such, we have a mini-CRM (customer relationship management) system that is in place for our artists.  Now that this is completed, we will be working toward the next step which is premium products (next).
 
 ## What's Next?
 

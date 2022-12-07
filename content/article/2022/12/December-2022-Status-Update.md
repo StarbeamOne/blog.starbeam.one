@@ -31,13 +31,13 @@ Right now we are geared towards a "daily stream" which works very well for AI-ar
 
 We're also thinking of making it possible to buy capacity, adding on a revenue stream for our growing outfit here. 🤞✌
 
-After that, we want to add on subscriptions to our daily stream so that a constant visit is not necessary for purchasing and supporting our artists.  Although we have a few of our collectors that appreciate the experience of visiting and helping out our efforts here. 😊🙏
+After that, we want to add on subscriptions to our daily stream so that a constant visit is not necessary for purchasing and supporting our artists.  Although we have a few of our collectors that appreciate the experience of visiting and helping out our efforts here on a daily basis. 😊🙏
 
 Once this is complete, we'll have two ways for artists to generate revenue for themselves: a daily stream which will accept subscriptions and a premium stream for additional content.  Artists will be able then to choose the streams that make the most sense (and cents 😏) to them.
 
 ## Stand-up & Shine (& Shill)
 
-So Premium Streams and Subscriptions.  That's what's on our plate here.  I also have the latest episode of Stand-up & Shine here for your viewing:
+So Premium Streams and Subscriptions.  That's what's on our plate here.  I also have the latest episode of Stand-up & Shine for your viewing here with more details:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NhrvmkiEKUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom: 2em"></iframe>
 

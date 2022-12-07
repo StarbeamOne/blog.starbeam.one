@@ -41,4 +41,4 @@ So Premium Streams and Subscriptions.  That's what's on our plate here.  I also 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NhrvmkiEKUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom: 2em"></iframe>
 
-I would like to thank everyone for all your support and purchases.  It truly means the world to me.  I would also like to wish everyone a happy and safe holiday season.  Thank you again for all your amazing contributions towards starbeam.one's success and until next time, stay bright. ✌✨🚀
+I would like to thank everyone for all your support and purchases.  It truly means the world to me -- and of course, all our artists!  I would also like to wish everyone a happy and safe holiday season.  Thank you again for all your amazing contributions towards starbeam.one's success and until next time, stay bright out there. ✌✨🚀

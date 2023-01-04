@@ -27,7 +27,7 @@ To summarize:
 
 **Featured Market**: exclusive, lower quantity at higher prices (2.5 - 5 Flare)
 
-### Up Next: The Treasure Market + Subscriptions
+### Up Next: The Treasure Market
 
 We are still cranking through some features.  One of the most compelling ones is this notion of a treasure market that we have been kicking around as a community for some time.  Since we were able to bolt the Featured Market together so quickly, I am going to take a little pit stop with the Treasure Market and see if we can add a little more value to our offering here.
 

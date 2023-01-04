@@ -33,11 +33,13 @@ We are still cranking through some features.  One of the most compelling ones is
 
 What is the Treasure Market?  Quite simply, it's a specialized market where the content is simply, well, *treasure*.  To be more precise, the Treasure Market consists of AI-generated treasure chests and their contents.  Artists can only post these once per 24 hours, and the quantity and prices are controlled by the system, where the quantity is always one.  The price starts out at 1 Flare ($1) and for each sale the price increases 4% for the next item upon issuance.
 
-This is a very experimental idea and it's crazy/compelling enough for me to want to try it out and see how it does.
+This is a very experimental idea and it's crazy/compelling enough for me to want to try it out and see how it does. 🤔🤞✨
+
+### Looking Forward to Alpha II
 
 Once all is said and done, we will have 3 markets: Standard Market, Featured Market, and the Treasure Market.  This will be enough for the Alpha II release, and I will start making efforts to advertise/market this to Google Ads where we have a spend $500-get-500 special sitting in our account.  We will also take advantage of our $1k ad spend on LinkedIn Ads which we have available due to our Microsoft for Startups enrollment.
 
-After that, it's subscriptions for the Standard Market.  We want to make it so that you can subscribe to an artist's Standard Market stream and automatically receive a license for every issuance they make with it.  That way you support the artist without having to revisit every day. 👍
+From there, Alpha II's focus will be subscriptions for the Standard Market.  We want to make it so that you can subscribe to an artist's Standard Market stream and automatically receive a license for every issuance they make with it.  That way you support the artist without having to revisit every day. 👍
 
 ### Stand-up & Shine (& Shill)
 

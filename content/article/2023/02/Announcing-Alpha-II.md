@@ -9,8 +9,6 @@ featuredImage: ''
 draft: false
 ---
 
-### Announcing Alpha II
-
 Today, I am announcing starbeam.one's Alpha II.  This is the second released alpha for our emerging platform and has a focus on our markets and quality.  This particular alpha has been quite some time in the making, taking over four months [since our Alpha I announcement](https://blog.starbeam.one/2022/10/october-2022-status-update/).
 
 ### One-Year Anniversary

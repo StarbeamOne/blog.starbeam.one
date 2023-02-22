@@ -4,51 +4,66 @@
   
   <url>
     <loc>https://blog.starbeam.one/articles/</loc>
-    <lastmod>2023-02-08T04:33:50-05:00</lastmod>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starbeam.one/tags/announcement/</loc>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starbeam.one/2023/02/announcing-alpha-ii/</loc>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.starbeam.one/categories/art/</loc>
-    <lastmod>2023-02-08T04:33:50-05:00</lastmod>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.starbeam.one/authors/</loc>
-    <lastmod>2023-02-08T04:33:50-05:00</lastmod>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.starbeam.one/categories/business/</loc>
-    <lastmod>2023-02-08T04:33:50-05:00</lastmod>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.starbeam.one/categories/</loc>
-    <lastmod>2023-02-08T04:33:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.starbeam.one/2023/02/february-2023-status-update/</loc>
-    <lastmod>2023-02-08T04:33:50-05:00</lastmod>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.starbeam.one/authors/mike-e-angelo/</loc>
-    <lastmod>2023-02-08T04:33:50-05:00</lastmod>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.starbeam.one/</loc>
-    <lastmod>2023-02-08T04:33:50-05:00</lastmod>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.starbeam.one/tags/status/</loc>
-    <lastmod>2023-02-08T04:33:50-05:00</lastmod>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.starbeam.one/tags/</loc>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starbeam.one/categories/technology/</loc>
+    <lastmod>2023-02-22T06:13:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starbeam.one/2023/02/february-2023-status-update/</loc>
     <lastmod>2023-02-08T04:33:50-05:00</lastmod>
   </url>
   
@@ -74,11 +89,6 @@
   
   <url>
     <loc>https://blog.starbeam.one/2022/11/november-2022-status-update/</loc>
-    <lastmod>2022-11-08T06:05:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.starbeam.one/categories/technology/</loc>
     <lastmod>2022-11-08T06:05:21-05:00</lastmod>
   </url>
   

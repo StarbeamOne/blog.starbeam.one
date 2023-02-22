@@ -13,7 +13,7 @@ Today, I am announcing starbeam.one's Alpha II.  This is the second released alp
 
 ### One-Year Anniversary
 
-One year ago today, after spending over two years in development solitude and surviving a pandemic, I announced the Alpha Preview to much fan fare and overwhelming market acclaim.  
+One year ago today, after spending over two years in development solitude and surviving a pandemic, [I announced the Alpha Preview to much fan fare and overwhelming market acclaim](https://blog.starbeam.one/2022/10/october-2022-status-update/).  
 
 Just kidding.  No one really said any thing and it seemed like they wanted me to go away. 😅  
 
@@ -59,21 +59,7 @@ Here are our primary markets for Alpha II:
 
 (1 Flare = $1USD always)
 
-#### Standard Market
-
-Content: AI/Computer-generated
-
-Focus: Basic image
-
-Price point: 1-Flare ($1)
-
-Minimum Price: .5 Flare
-
-Maximum Price: 2 Flares
-
-Maximum File Size: 25MB
-
-#### Standard Market
+#### [Standard Market](https://alpha.starbeam.one/market/products/featured)
 
 Content: AI/Computer-generated
 
@@ -89,7 +75,7 @@ Maximum Price: 2 Flares
 
 Maximum File Size: 25MB
 
-#### Featured Market
+#### [Featured Market](https://alpha.starbeam.one/market/products/featured)
 
 Content: AI/Computer-generated
 
@@ -105,7 +91,7 @@ Maximum Price: 25 Flares
 
 Maximum File Size: 50MB
 
-#### Traditonal Market
+#### [Traditonal Market](https://alpha.starbeam.one/market/products/traditional)
 
 Content: Human hand-made, NOT AI/Computer-generated
 
@@ -127,7 +113,7 @@ Finally, we have increased the deposit limits to 100 Flares ($100) and our withd
 
 ### What's Next?
 
-Going forward, I am going to make a concentrated effort to release alphas every two months, culminating in our first beta on August 1st, 2023.  The beta should have us "feature complete" and working on quality toward our first RTM which should be a few months after this.  I am going to wait until we get closer to Beta I to figure out when this might be.
+Going forward, I am going to make a concentrated effort to release alphas every two months (🤞), culminating in our first beta on August 1st, 2023.  The beta should have us "feature complete" and working on quality toward our first RTM which should be a few months after this.  I am going to wait until we get closer to Beta I to figure out when this might be.
 
 **Alpha III**: April 4th, 2023
 

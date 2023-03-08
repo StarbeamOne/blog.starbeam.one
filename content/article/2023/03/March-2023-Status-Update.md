@@ -19,7 +19,7 @@ It seems like only two weeks ago we managed to reach our first 1,000 Flares of v
 
 Currently we have Alpha II deployed and I'm now working on some important features that will improve the quality of starbeam.one for Alpha III.  Quality is the focus of Alpha III, where we want some key pieces in place before we start marketing our baby in earnest.  In particular, we want the following in place:
 
-- **Enforce Email Addresses**: Currently email addresses can be used for notifications but they are not required.  Turns out it makes it a lot easier to stay in touch with you as a member if you have this set on your account so we will be making this a requirement when signing in or using the site.
+- **Enforce Email Addresses**: Currently email addresses can be used for notifications but they are not required.  Turns out it makes it a lot easier to stay in touch with you (and support you!) as a member if you have this set on your account so we will be making this a requirement when signing in or using the site.
 - **Account Merging**: Oauth2 is incredibly powerful but it does have a pesky problem where if you don't remember the provider you signed in with you create a new user account on starbeam.one.  We want to make sure you can merge back with your existing user account and proceed accordingly.
 - **Announcement Bot Improvements**: Finally we have some adjustments we want to make with our world-famous announcement bot and will be getting those attended to on our various platforms.
 

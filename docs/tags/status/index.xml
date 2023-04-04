@@ -5,7 +5,18 @@
     <link>https://blog.starbeam.one/tags/status/</link>
     <description>Recent content in status on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Mar 2023 04:14:42 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/tags/status/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Apr 2023 04:08:28 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/tags/status/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>April 2023 Status Update</title>
+      <link>https://blog.starbeam.one/2023/04/april-2023-status-update/</link>
+      <pubDate>Tue, 04 Apr 2023 04:08:28 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/2023/04/april-2023-status-update/</guid>
+      <description>It&amp;rsquo;s the first Tuesday of the month, it&amp;rsquo;s time for a monthly status update on starbeam.one! ✨🚀
+Welcome to Alpha III Today we&amp;rsquo;re announcing Alpha III, which is mostly comprised of quality improvements.
+Alpha III was meant to be a focus on quality and also key features on administration before we start marketing our application in earnest with formal advertising spend. However, with all the sheer commotion of onboarding new users, artists, and collectors, I only managed to get quality improvements into the codebase for this alpha.</description>
+    </item>
+    
     <item>
       <title>March 2023 Status Update</title>
       <link>https://blog.starbeam.one/2023/03/march-2023-status-update/</link>

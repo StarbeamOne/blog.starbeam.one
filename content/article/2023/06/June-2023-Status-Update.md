@@ -39,7 +39,4 @@ We're holding a Twitter Space tomorrow to celebrate the 1-year anniversary of st
 
 That does it for this month's update.  For more information around our current state of the system, I direct you to the latest Stand-up & Shine (& Shill):
 
-```
-TBD
-```
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M1H3BGjRugo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom: 2em"></iframe>

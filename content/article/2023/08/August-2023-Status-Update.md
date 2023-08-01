@@ -17,11 +17,13 @@ At long last, after nearly four years of development, we are now official in bet
 
 #### Increased Withdrawal Limit
 
-For the beta, our withdrawal limits have been raised to $50. 🚀
+For the beta, our daily withdrawal limits have been raised to $50. 🚀
 
-#### New URL/Address!
+#### New URL/Address
 
 The "alpha" has been removed from our URL and the application can now be accessed from the root domain name: https://starbeam.one
+
+alpha.starbeam.one is still accepting requests at the moment, but we will be sunsetting it in the near future.  Make sure to update your bookmarks before then!
 
 #### Announcement Bot
 
@@ -64,4 +66,4 @@ As mentioned, all my current efforts and focus is in Beta II, which is really an
 
 That does it for this month's update.  For more information around our current state of the system, I direct you to the latest Stand-up & Shine (& Shill):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PyyAEmNOJas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom: 2em"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nnLvXbO3Kvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom: 2em"></iframe>

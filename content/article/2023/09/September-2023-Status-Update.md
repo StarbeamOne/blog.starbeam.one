@@ -9,7 +9,7 @@ featuredImage: ''
 draft: false
 ---
 
-It's the first week of the month and that means it's time for the latest starbeam.one update!
+It's the first full week of the month and that means it's time for the latest starbeam.one status update!
 
 ### Slow Times on the Starship
 

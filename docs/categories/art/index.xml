@@ -5,7 +5,18 @@
     <link>https://blog.starbeam.one/categories/art/</link>
     <description>Recent content in art on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Jun 2023 06:27:01 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 06:24:55 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>October 2023 Status Update</title>
+      <link>https://blog.starbeam.one/2023/10/october-2023-status-update/</link>
+      <pubDate>Tue, 03 Oct 2023 06:24:55 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/2023/10/october-2023-status-update/</guid>
+      <description>Welcome to Beta II Welcome to the second beta of starbeam.one. This is a quality-based beta with certain key support features.
+Email Address Policy We now require email addresses for accounts. If you have an existing account and have already added+confirmed an email address, this has been automatically done for you. Otherwise, you will get a prompt to provide and verify an email address.
+New accounts will also be prompted.</description>
+    </item>
+    
     <item>
       <title>June 2023 Status Update</title>
       <link>https://blog.starbeam.one/2023/06/june-2023-status-update/</link>

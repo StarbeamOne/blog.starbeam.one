@@ -51,4 +51,6 @@ Now begins the process for the next beta.  Before doing so, I have some cleanup 
 
 ### Stand-up & Shine (& Shill)
 
-I still have to record this month's standup which should be later today, the 3rd.  Please check back here for updates!
+That does it for this month's update.  For more information around our current state of the system, I direct you to the latest Stand-up & Shine (& Shill):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vl6AIl-sNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom: 2em"></iframe>

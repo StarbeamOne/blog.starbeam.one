@@ -41,7 +41,7 @@ The current schedule is:
 
 ### Spooky AI Art Contest
 
-One quick mention here, [we have our first contest](https://vote.vertikal.art/contest/spooky/)!  Several users have suggested this in the past and I am happy to declare we have our first offering in this regard.  We are teaming up with [VaVortex AI Community](https://twitter.com/VertikalAiVortx/) to handle our contest, and we will be hosting the products for purchase after the contest completion.  [Visit this page for details](https://vote.vertikal.art/contest/spooky/).  
+One quick mention here, [we have our first contest](https://vote.vertikal.art/contest/spooky/)!  Several users have suggested this in the past and I am happy to declare we have our first offering in this regard.  We are teaming up with [VaVortex AI Community](https://linktr.ee/vavortex) to handle our contest, and we will be hosting the products for purchase after the contest completion.  [Visit this page for details](https://vote.vertikal.art/contest/spooky/).  
 
 This is our first contest and should be considered a v1.0 trial.  As time goes on we hope to improve the experience and further our partnership with VaVortex. 👍✨🚀
 

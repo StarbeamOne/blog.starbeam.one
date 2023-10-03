@@ -19,7 +19,7 @@ We now require email addresses for accounts.  If you have an existing account an
 
 New accounts will also be prompted.
 
-This was a much larger story than anticipated.  As it does involve security it did take extra time.  We also now have better integration with our support channels, with our Crisp Chat window in particular, which requires an email address.
+This was a much larger story than anticipated.  As it does involve security, it did take extra time.  We also now have better integration with our support channels, with our Crisp Chat window in particular, which requires an email address for full functionality.
 
 ### Beta II Gift: Extra Capacity!
 
@@ -41,9 +41,9 @@ The current schedule is:
 
 ### Spooky AI Art Contest
 
-One quick mention here, [we have our first contest](https://vote.vertikal.art/contest/spooky/)!  Several users have suggested this in the past and I am happy to declare we have our first offering in this regard.  We are teaming up with VaVortex AI Community to handle our contest, and we will be hosting the products for purchase after the contest completion.  [Visit this page for details](https://vote.vertikal.art/contest/spooky/).  
+One quick mention here, [we have our first contest](https://vote.vertikal.art/contest/spooky/)!  Several users have suggested this in the past and I am happy to declare we have our first offering in this regard.  We are teaming up with [VaVortex AI Community](https://twitter.com/VertikalAiVortx/) to handle our contest, and we will be hosting the products for purchase after the contest completion.  [Visit this page for details](https://vote.vertikal.art/contest/spooky/).  
 
-This is a simple contest.  As time goes on we hope to improve the experience and further our partnership with VaVortex. 👍✨🚀
+This is our first contest and should be considered a v1.0 trial.  As time goes on we hope to improve the experience and further our partnership with VaVortex. 👍✨🚀
 
 ### What's Next?
 

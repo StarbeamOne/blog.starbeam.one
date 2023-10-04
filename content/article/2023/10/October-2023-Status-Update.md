@@ -21,13 +21,13 @@ New accounts will also be prompted.
 
 This was a much larger story than anticipated.  As it does involve security, it did take extra time.  We also now have better integration with our support channels, with our Crisp Chat window in particular, which requires an email address for full functionality.
 
-### Beta II Gift: Extra Capacity!
+#### Beta II Gift: Extra Capacity!
 
 I am happy to announce that all existing artists have been gifted extra capacity in their Featured and Standard Market accounts.  Existing Featured Market capacity accounts have been given 25 units, and Standard Market capacity accounts have been given 5 units.  Thank you for using starbeam.one and helping to develop our startup.  Your efforts and participation are greatly appreciated!
 
-### Extra Artist Purchase Reward
+#### Extra Artist Purchase Reward
 
-Another extra that we have added for artists is that extra capacity is awarded on artist purchases.  When you purchase from another artist and are low on capacity, the amount of capacity awarded to you is now doubled.  For instance, if you purchase a Featured Market license for 3 Flares, you will get 6 units of capacity.  If you purchase a Standard Market license for 1 Flare, you get 2 units of capacity awarded back to you.
+Another extra that we have added for artists is that extra capacity is awarded on artist purchases.  When you purchase from another artist and are low on capacity, the amount of capacity rewarded to you is now doubled.  For instance, if you purchase a Featured Market license for 3 Flares, you will get 6 units of capacity.  If you purchase a Standard Market license for 1 Flare, you get 2 units of capacity awarded back to you.
 
 ### Current Schedule
 

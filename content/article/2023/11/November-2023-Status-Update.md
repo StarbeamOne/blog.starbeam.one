@@ -17,9 +17,11 @@ I am very happy to announce [the return of Lady Leah](https://twitter.com/putiti
 
 Additionally, our volume has been slowing increasing again.  For the month of October we had about 545 Flares of volume, which is about 3x times the amount we had in September.  That is still 1/3 of the peak we had in June, but still trending in the right direction at the moment.
 
-### Cranking Out New Features
+### Cranking Out New (Administrative) Features
 
 Schedule-wise I am happy to report that I have been able to really get the features developed that I have been wanting to get done.  There haven't been a lot of gotchas and I have been able to stick to the estimated times for stories for the most part.  I am very happy with this past month especially.
+
+While I have been able to get these features done, most are administrative and are not seen by the end user.
 
 Also, as a program note, I have formally made the first part of my day dedicated to marketing.  This was actually how I was spending my day anyways informally, but now it's official.  This has helped out with the stress of having two major responsibilities of running starbeam.one.  Now I focus on marketing/promotions in the morning, and then the rest of the day in development.
 

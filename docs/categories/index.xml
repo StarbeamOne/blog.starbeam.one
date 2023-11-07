@@ -5,7 +5,16 @@
     <link>https://blog.starbeam.one/categories/</link>
     <description>Recent content in Categories on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 06:24:55 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Nov 2023 05:57:45 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>etc</title>
+      <link>https://blog.starbeam.one/categories/etc/</link>
+      <pubDate>Tue, 07 Nov 2023 05:57:45 -0500</pubDate>
+      
+      <guid>https://blog.starbeam.one/categories/etc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>art</title>
       <link>https://blog.starbeam.one/categories/art/</link>
@@ -30,15 +39,6 @@
       <pubDate>Wed, 06 Sep 2023 04:24:19 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>etc</title>
-      <link>https://blog.starbeam.one/categories/etc/</link>
-      <pubDate>Wed, 06 Sep 2023 04:24:19 -0400</pubDate>
-      
-      <guid>https://blog.starbeam.one/categories/etc/</guid>
       <description></description>
     </item>
     

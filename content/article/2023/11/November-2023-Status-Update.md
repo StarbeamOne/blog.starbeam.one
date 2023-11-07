@@ -21,7 +21,7 @@ Additionally, our volume has been slowing increasing again.  For the month of Oc
 
 Schedule-wise I am happy to report that I have been able to really get the features developed that I have been wanting to get done.  There haven't been a lot of gotchas and I have been able to stick to the estimated times for stories for the most part.  I am very happy with this past month especially.
 
-While I have been able to get these features done, most are administrative and are not seen by the end user.
+While the development has been crisp, most of these features are administrative in nature and unfortunately are not seen by the end user.  Nonetheless it is a positive step in the right direction for the maintainability of the system as we continue to onboard new members.
 
 Also, as a program note, I have formally made the first part of my day dedicated to marketing.  This was actually how I was spending my day anyways informally, but now it's official.  This has helped out with the stress of having two major responsibilities of running starbeam.one.  Now I focus on marketing/promotions in the morning, and then the rest of the day in development.
 

@@ -39,7 +39,7 @@ This is what I will attempt in my own way here on starbeam.one in the next year.
 
 ### What's Next?
 
-Along those lines, I believe I have mentioned subscriptions before.  This is something that I feel can address our woes.  It is also something that can differentiate us from NFTs, as NFTs cannot support subscriptions (.i.e., every blockchain transaction requires confirmation and cannot be scheduled).  I also have a very specific idea in mind with this model and further feel it's novel enough to potentially catch on with AI artists and photographers.  This will be the focus here for Beta IV.
+Along those lines, I believe I have mentioned subscriptions before.  This is something that I feel can address our woes.  It is also something that can differentiate us from NFTs, as NFTs cannot support subscriptions (i.e., every blockchain transaction requires confirmation and cannot be scheduled).  I also have a very specific idea in mind with this model and further feel it's novel enough to potentially catch on with AI artists and photographers.  This will be the focus here for Beta IV.
 
 But first, there is Beta III which is slated for next month, on December 5th.  This will include all the administrative upgrades that I have been slaving over the past month and more.  This will essentially be a quality update.
 

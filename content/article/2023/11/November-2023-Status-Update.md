@@ -27,15 +27,15 @@ This has been a pretty awesome setup for me. 👍🙏
 
 ### Down Market
 
-It is worth mentioning that the market as a whole is down and struggling.  This morning I learned the surprising (but not) [news that OpenSea has slashed 50% of its staff](https://decrypt.co/204371/opensea-slashes-nft-marketplace-staff-50-layoffs).  For those who follow OpenSea, this is not that much of a surprise.  I myself have been tracking many many profiles on OpenSea and very little if any actually artists make any sales there.  When they do occur, sales are sporadic and are certainly not long-term viable.
+It is worth mentioning that the market as a whole is down and struggling.  This morning I learned the surprising (but yet not) [news that OpenSea has slashed 50% of its staff](https://decrypt.co/204371/opensea-slashes-nft-marketplace-staff-50-layoffs).  For those who follow OpenSea, this is not that much of a surprise.  I myself have been tracking many many profiles on OpenSea and very little if any actually artists make any sales there.  When they do occur, sales are sporadic and are certainly not long-term viable.
 
 It is also worth mentioning another major NFT marketplace Voice [closed down altogether in September](https://twitter.com/VoiceHQ/status/1702041041220534764).
 
-It makes one wonder if the NFT model here works at all.  I myself am starting to feel/believe that it does not, at least in the current climate/environment.  In particular, AI art has really changed the dynamic of how artists produce and sell art.  Why purchase anything if you can have a machine make it for you without much effort?
+It makes one wonder if the NFT model here works at all.  I myself am starting to feel/believe that it does not, at least in the current climate/environment.  In particular, AI art has really changed the dynamic of how artists produce and sell art.  Why purchase anything if you can have a machine make it for you without much effort?  And with so much overwhelming quantity?  I personally know several artists that produce thousands of renders every day via automated processes. 🤯
 
-Well, that's a good question, but I feel there are still some viable solutions that can be had in the face of such challenges.
+Well, these are good questions, but I feel there are still some viable solutions that can be had in the face of such challenges.
 
-This is what I will attempt in my own way here on starbeam.one in the next year. 🤞
+This is what I will attempt in my own way here on starbeam.one in the next year.  Stay tuned. 🤞
 
 ### What's Next?
 

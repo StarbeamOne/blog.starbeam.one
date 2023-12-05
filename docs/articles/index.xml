@@ -5,7 +5,18 @@
     <link>https://blog.starbeam.one/articles/</link>
     <description>Recent content on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Nov 2023 05:57:45 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Dec 2023 06:01:43 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>December 2023 Status Update</title>
+      <link>https://blog.starbeam.one/2023/12/december-2023-status-update/</link>
+      <pubDate>Tue, 05 Dec 2023 06:01:43 -0500</pubDate>
+      
+      <guid>https://blog.starbeam.one/2023/12/december-2023-status-update/</guid>
+      <description>It&amp;rsquo;s the first Tuesday of the month, it is time for a monthly status update! 🚀
+Welcome to Beta III I am very happy to announce that today we have Beta III. This is mostly a quality release, addressing a lot of issues for administration and user account management.
+It&amp;rsquo;s v1 &amp;ndash; Sorta 🎉 With this monthly update, I am going to take some time here and reflect where we are here after four years of development, with (at present) another year of runway to make something of it in a viable way.</description>
+    </item>
+    
     <item>
       <title>November 2023 Status Update</title>
       <link>https://blog.starbeam.one/2023/11/november-2023-status-update/</link>

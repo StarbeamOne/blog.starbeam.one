@@ -39,7 +39,7 @@ However, before doing so, [there are some considerations](https://twitter.com/Mi
 
 ### The Bad
 
-Even at v1 quality, everything is unicorns and rainbows here.  Despite having built something functional and stable, it is ultimately missing the mark for long-term viability (read: profitability).
+Even at v1 quality, everything is unicorns and rainbows here.  Despite having built something that I am super proud of, along with it being functional and stable, it is ultimately missing the mark for long-term viability (read: profitability).
 
 To start, what I started out to build was a publishing system, and while what we have does do this in a sense, what it ultimately has created is a centralized version of an NFT-marketplace, which is not what I wanted to build.
 
@@ -53,7 +53,9 @@ In particular I started tracking and analyzing a few "successful" NFT accounts, 
 
 On top of this, it turns out that an overwhelming amount of activity is from artists purchasing from other artists.  This is neither viable nor successful, as money is basically recycled back in the system, passed back and forth between artists and only benefitting the network in the form of fees.
 
-On the collector side, there is this small problems of limits.  People only have so much money, and at higher price points they quickly exhaust their budget and resulting interest + participation.
+Finally, it is worth noting that the typical "successful" NFT artist will only have a handful of collectors purchasing from them -- a dozen at the very most.  It is very rare to see anything above this, and this does not really signal a large+growing market to me.
+
+On the collector side, there is this small problems of limits.  People only have so much money, and at higher price points, they quickly exhaust their budget and resulting interest + participation.
 
 All of this has me calling back to the original heart and soul of starbeam.one: *higher quantity and lower prices*.
 

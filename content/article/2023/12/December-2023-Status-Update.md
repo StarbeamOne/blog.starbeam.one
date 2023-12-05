@@ -79,4 +79,4 @@ I hope to have subscription channels (aka "commitments" or "allotments" -- still
 
 That does it for this month's update.  For more information around our current state of our starship, I direct you to the latest Stand-up & Shine (& Shill):
 
-*TBD: Please return for an update when this is available.*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dLh5S1DcNFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom: 2em"></iframe>

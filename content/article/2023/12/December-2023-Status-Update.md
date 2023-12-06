@@ -63,7 +63,7 @@ On the collector side, there is this small problems of limits.  People only have
 
 All of this has me calling back to the original heart and soul of starbeam.one: *higher quantity and lower prices*.
 
-### The Next:  Beta IV & Subscriptions
+### The Next:  v1.5 & Subscriptions
 
 I have a year left of runway, and now I have to prove that I can make enough money with what I built that can at least pay the bills.  How will I do this?  Subscriptions.  However, this term is an approximation and I continue to search for a better word that best describe the process, which I will describe below.
 
@@ -77,7 +77,7 @@ To end, having a committed daily cycle not only improves efficiency, but engagem
 
 In all, I hope this will get us on our way to profitability.  I have a few more ideas around this to help get us there, but they will have to wait until next update. ✌
 
-I hope to have subscription channels (aka "commitments" or "allotments" -- still kicking these around) by Beta IV, slated for February 6th.
+I hope to have subscription channels (aka "commitments" or "allotments" -- still kicking these around) by v1.1, slated for February 6th.
 
 ### Stand-up & Shine (& Shill)
 

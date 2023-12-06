@@ -21,9 +21,9 @@ With this monthly update, I am going to take some time here and reflect where we
 
 ### It's v1 -- Sorta 🎉
 
-Several days ago I got the idea to call this v1 instead of Beta III.  It was too close to the release and I didn't want to make a rushed decision.  After some thought and officially releasing Beta III, I will be renaming it to v1 next month on January 2nd.  This is mostly a ceremony as it is the same application with primary features.  If there were not so many moving pieces in my world I would have done it for Beta III if I had thought of it sooner.
+Several days ago I got the idea to call this v1 instead of Beta III.  It was too close to the release and I didn't want to make a rushed decision.  After some thought and officially releasing Beta III, I will be renaming it to v1 next month on January 2nd, 2024.  This is mostly a ceremony as it is the same application with primary features developed and released.  If there were not so many moving pieces in my world I would have done it for Beta III if I had thought of it sooner.
 
-No matter the version nomenclature, I am very happy with the state of this application and I will discuss this more below as a bit of a retrospective.  We'll discuss the positive, the negative, and next steps.
+No matter the version nomenclature, I am very happy with the state of this application from a technical perspective and I will discuss this more below as a bit of a retrospective.  We'll discuss the positive, the negative, and next steps.
 
 ### The Good
 
@@ -77,7 +77,7 @@ To end, having a committed daily cycle not only improves efficiency, but engagem
 
 In all, I hope this will get us on our way to profitability.  I have a few more ideas around this to help get us there, but they will have to wait until next update. ✌
 
-I hope to have subscription channels (aka "commitments" or "allotments" -- still kicking these around) by v1.1, slated for February 6th.
+I hope to have subscription channels (aka "commitments" or "allotments" -- still kicking these around) by v1.5, slated for February 6th.
 
 ### Stand-up & Shine (& Shill)
 

@@ -35,11 +35,11 @@ For a little additional technical context, there are 12,508 C# files in my solut
 
 This is unlike a lot of C# projects you see out there, where typical files have 100s if not 1000s of lines of code in them.  As you can probably imagine that means a lot of surface area per file where something can (and will) go wrong with them.
 
-Additionally, it should go without saying that I have been able to develop a system exactly how I would like to do so, and the results of which are pretty great and meaningful to me.  At the time of writing, [we have processed nearly $10,000 of sales + resales of digitally owned products in a completely centralized manner](https://starbeam.one/dashboard).  I wanted to prove that this could be done, and feel this has been accomplished.  Those $10,000 of volume are comprised of 6,145 sales which means 6,145 times that something could have gone wrong but didn't.
+Additionally, it should go without saying that I have been able to develop a system exactly how I would like to do so, and the results of which are pretty great and meaningful to me.  At the time of writing, [we have processed nearly $10,000 of sales + resales of digitally owned products in a completely centralized manner](https://starbeam.one/dashboard).  I wanted to prove that this could be done, and feel this has been accomplished.  That $10,000 of volume is comprised of 6,145 sales which means 6,145 times that something could have gone wrong but didn't. 🤞🙏
 
-Further, we are able to accept payments and pay people out, all via trusted 3rd party providers like Coinbase and PayPal.   All of this is hosted on Azure which also has its own tremendous learning curve (which painfully still goes on today).  This is all new territory for me and I feel that it has been accomplished in a viable manner.  The code is very stable and works consistently well, and for the most part, I want to call it v1.  
+Further, we are able to accept payments and pay people out, all via trusted 3rd party providers like Coinbase and PayPal.   All of this is hosted on Azure which also has its own tremendous learning curve (which painfully still goes on today).  This is *all* new territory for me and I feel that it has been accomplished in a viable manner.  The code is very stable and works consistently well, and for the most part, I want to call it v1.  
 
-However, before doing so, [there are some considerations](https://twitter.com/Mike_E_angelo/status/1731616441281958062).
+(However, before doing so, [there are some considerations](https://twitter.com/Mike_E_angelo/status/1731616441281958062). 🤔)
 
 ### The Bad
 

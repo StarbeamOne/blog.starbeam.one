@@ -17,9 +17,11 @@ It's the first Tuesday of the month, it is time for a monthly status update! ðŸš
 
 I am very happy to announce that today we have [Beta III](https://starbeam.one).  This is mostly a quality release, addressing a lot of issues for administration and user account management.
 
+With this monthly update, I am going to take some time here and reflect where we are here after four years of development, with (at present) another year of runway to make something of it in a viable way.
+
 ### It's v1 -- Sorta ðŸŽ‰
 
-With this monthly update, I am going to take some time here and reflect where we are here after four years of development, with (at present) another year of runway to make something of it in a viable way.
+Several days ago I got the idea to call this v1 instead of Beta III.  It was too close to the release and I didn't want to make a rushed decision.  I am very happy with the state of this application and I will discuss this more below as a bit of a retrospective.  We'll discuss the positive, the negative, and next steps.
 
 ### The Good
 

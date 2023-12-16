@@ -11,13 +11,13 @@ draft: false
 
 ### What's New?
 
-We have supported PayPal Payouts since the market opened in June 2022.  At that time, my impression and understanding was that fees for this service were $0.25 for each payout.  It turns out this is accurate, but only for US-only payouts.  International payouts are 2%.
+We have supported PayPal Payouts since the market opened in June 2022.  At that time, my impression and understanding was that fees for this service were $0.25 for each payout.  It turns out this is accurate, but only for US-only payouts.  [International payouts are 2%.](https://www.paypal.com/us/webapps/mpp/merchant-fees#maxfeecap)
 
-This misunderstanding was caught pretty quickly when we started to process international payouts, which comprise a majority of our payouts.
+This misunderstanding was caught pretty quickly when we started to process international payouts, which comprise a majority of our payouts.  I noticed that they were not always $0.25 as expected and they were in fact over this for a majority of the time.
 
-While it has been known for sometime, I am just now getting around to fixing it.  For 2023, the average fee was $0.30, which means I have paid $.05 for each payout made.  As I designed the system to pass on fees to the customer, this has been a costly issue that has only increased with time.
+For 2023, the average fee was $0.30, which means I have paid an average of $.05 for each payout made.  As I designed the system to pass on fees to the customer, this has been a bit of a cost issue that has only increased with time.
 
-This was a tricky problem to solve, as I didn't want to onboard more user data that I would ultimately have to manage. 
+While it has been known for sometime, I am just now getting around to fixing it.  This was a tricky problem to solve, as I didn't want to onboard more user data that I would ultimately have to manage. 
 
 It turns out the fix was easy, and I wish I would have thought of it sooner.
 

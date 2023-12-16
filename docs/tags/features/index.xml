@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>features on starbeam.one Blog</title>
+    <link>https://blog.starbeam.one/tags/features/</link>
+    <description>Recent content in features on starbeam.one Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Dec 2023 12:06:19 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/tags/features/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PayPal Payout Fee Adjustments</title>
+      <link>https://blog.starbeam.one/2023/12/paypal-payout-fee-adjustments/</link>
+      <pubDate>Sat, 16 Dec 2023 12:06:19 -0500</pubDate>
+      
+      <guid>https://blog.starbeam.one/2023/12/paypal-payout-fee-adjustments/</guid>
+      <description>What&amp;rsquo;s New? We have supported PayPal Payouts since the market opened in June 2022. At that time, my impression and understanding was that fees for this service were $0.25 for each payout. It turns out this is accurate, but only for US-only payouts. International payouts are 2%.
+This misunderstanding was caught pretty quickly when we started to process international payouts, which comprise a majority of our payouts.
+While it has been known for sometime, I am just now getting around to fixing it.</description>
+    </item>
+    
+  </channel>
+</rss>

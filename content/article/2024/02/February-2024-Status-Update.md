@@ -25,7 +25,7 @@ All things considered it was worth the two-month detour here to solve these pres
 
 ### What's Next
 
-With that, I can finally start working on "subscriptions" or Automatic Purchasing as I am calling it now.  But before this I want to further optimize our model and improve our publishing process.  From there it will make it easier to add this feature.
+With that, I can finally start working on "subscriptions" or Automatic Purchasing as I am calling it now.  But before this I want to further optimize our model and improve our publishing process.  From there it will make it easier to add this feature and so much more.  I am so happy to be able to focus on this now that we have our deployments squared away. 😌
 
 ### Stand-up & Shine (& Shill)
 

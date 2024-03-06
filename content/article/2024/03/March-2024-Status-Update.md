@@ -15,6 +15,8 @@ It's the first week of the month, and that historically means it's time for our 
 
 I say historically as last month was a bit of an outlier.  We're back to the first week of the month here with our cadence, and what I have been doing is filming the standup on Tuesday and then writing the blog posts on the following day.
 
+Additionally, if interested, [I have been providing daily technical updates on my X feed](https://twitter.com/Mike_E_angelo/status/1764930325136691563).
+
 ### v1.1: Attending to Technical Debt
 
 It's really been quite the whirlwind for me these past several months, but also stressful as no new feature work has been getting done.  With these last few changes that should be changing as the work I have been doing for the past few weeks in particular attends to some [technical debt](https://en.wikipedia.org/wiki/Technical_debt) accrued over the years as I have built out sb1's codebase.  I was hoping to get this released earlier this week as v1.1, but some issues were identified in testing and will be attending to those today and perhaps tomorrow.  All told I aim to have this out by Friday. 🤞

@@ -35,7 +35,7 @@ After getting the new publishing API in place with v1.2, then it's onto what I d
 
 #### v2.0 (October)
 
-This is the biggie, and I don't want to give too much detail about this yet, but this will basically change how the application is used.  Stay tuned. 😎✌
+This is the biggie, and I don't want to give too much detail about this yet, but if all goes right this will basically change how the application is fundamentally used.  Stay tuned. 😎✌
 
 ### Stand-up & Shine (& Shill)
 

@@ -23,7 +23,7 @@ This is all code that I first developed nearly five years ago and boy does it hi
 
 ### What's Next?
 
-After v1.2 in July, we then finally set our sights on v1.3 which will finally include automatic purchasing (aka "subscriptions").  I really hope to have this done by October, which will officially mark 5 years.  Then it's off to the races with getting signups again and working on a new secret 🤫 feature for v2.0, slated for January 2025.  More details around this as development progresses. 🤞
+After v1.2 in July, we then set our sights on v1.3 which will finally include automatic purchasing (aka "subscriptions").  I really hope to have this done by October, which will officially mark 5 years.  Then it's off to the races with getting signups again and working on a new secret 🤫 feature for v2.0, slated for January 2025.  More details around this as development progresses. 🤞
 
 ### Stand-up & Shine (& Shill)
 

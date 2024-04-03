@@ -9,7 +9,7 @@ featuredImage: ''
 draft: false
 ---
 
-It's the first week of the month here at starbeam.one.  This means the latest monthly update. ✨🚀
+It's the first week of the month here at starbeam.one.  This means the latest monthly status update. ✨🚀
 
 ### v1.1 Released
 

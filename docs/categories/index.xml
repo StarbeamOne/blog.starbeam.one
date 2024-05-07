@@ -5,13 +5,22 @@
     <link>https://blog.starbeam.one/categories/</link>
     <description>Recent content in Categories on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 03 Apr 2024 04:17:58 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 May 2024 05:57:58 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>business</title>
       <link>https://blog.starbeam.one/categories/business/</link>
-      <pubDate>Wed, 03 Apr 2024 04:17:58 -0400</pubDate>
+      <pubDate>Tue, 07 May 2024 05:57:58 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://blog.starbeam.one/categories/technology/</link>
+      <pubDate>Tue, 07 May 2024 05:57:58 -0400</pubDate>
+      
+      <guid>https://blog.starbeam.one/categories/technology/</guid>
       <description></description>
     </item>
     
@@ -30,15 +39,6 @@
       <pubDate>Wed, 03 Apr 2024 04:17:58 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/categories/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>https://blog.starbeam.one/categories/technology/</link>
-      <pubDate>Wed, 03 Apr 2024 04:17:58 -0400</pubDate>
-      
-      <guid>https://blog.starbeam.one/categories/technology/</guid>
       <description></description>
     </item>
     

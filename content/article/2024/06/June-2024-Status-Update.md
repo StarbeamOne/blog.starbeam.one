@@ -15,7 +15,7 @@ It's the first week of the month, that means it's time for a status update here 
 
 Can you believe it's already been two full years since I opened starbeam.one's doors to the public with [the first product release of my work, Cause](https://starbeam.one/market/licenses/1)? 🤯  I made seven sales that day and it was quite the event for me.  Of course, after this not much happened.  I had zero artists outside of myself who were using the platform, and I learned very quickly the monumental challenge in getting any sort of traction.  In fact, it would not be until September 2022 that I onboarded my first artist and *oof* was *that* an adventure (hint: many bugs were uncovered). 
 
-But here we are now two years later without much marketing effort, landing over 150 artists and nearly 7,000 sales, all by word-of-mouth and personal invitations.  I hope once we have the new features in place within the next year (they will be in place won't they? 🤔) we can get serious about marketing and start getting some real traction. 🤞
+But here we are now two years later without much marketing effort, landing over 150 artists and nearly 7,000 sales, all by word-of-mouth and personal invitations.  We've also published over 11,000 licenses [which you can browse here](https://starbeam.one/market/licenses). 😊  I hope once we have the new features in place within the next year (they will be in place won't they? 🤔) we can get serious about marketing and start getting some real traction. 🤞
 
 ### Birthday Contest
 

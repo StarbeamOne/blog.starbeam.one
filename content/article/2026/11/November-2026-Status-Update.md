@@ -1,6 +1,6 @@
 ---
 title: "November 2026 Status Update"
-date: 2026-11-060T00:00:00-04:00
+date: 2026-11-06T00:08:20-05:00
 categories: [business, life, etc]
 tags: [v2]
 author: Mike-E-angelo

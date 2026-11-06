@@ -5,7 +5,16 @@
     <link>https://blog.starbeam.one/tags/</link>
     <description>Recent content in Tags on starbeam.one Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 05:22:27 -0400</lastBuildDate><atom:link href="https://blog.starbeam.one/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Nov 2026 00:08:20 -0500</lastBuildDate><atom:link href="https://blog.starbeam.one/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>v2</title>
+      <link>https://blog.starbeam.one/tags/v2/</link>
+      <pubDate>Fri, 06 Nov 2026 00:08:20 -0500</pubDate>
+      
+      <guid>https://blog.starbeam.one/tags/v2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>status</title>
       <link>https://blog.starbeam.one/tags/status/</link>
@@ -84,15 +93,6 @@
       <pubDate>Mon, 20 Jan 2020 01:59:56 -0400</pubDate>
       
       <guid>https://blog.starbeam.one/tags/introduction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>v2</title>
-      <link>https://blog.starbeam.one/tags/v2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.starbeam.one/tags/v2/</guid>
       <description></description>
     </item>
     
